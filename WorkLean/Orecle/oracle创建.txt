@@ -1,0 +1,300 @@
+conn / as sysdba
+
+create temporary tablespace  nmfc_temp
+tempfile 'E:\oracle_datafile\nmfc_temp.dbf'
+size 100m
+autoextend on
+next 50m maxsize 20480m
+extent management local;
+
+
+create tablespace nmfc_data
+logging
+datafile 'E:\oracle_datafile\nmfc_data.dbf'
+size 50m
+autoextend on
+next 50m maxsize 20480m
+extent management local;
+
+
+create user nmfc identified by nmfc123
+default tablespace nmfc_data
+temporary tablespace nmfc_temp;
+
+
+grant connect,resource,dba to nmfc;
+
+
+
+退回到dos：在执行：
+
+//后面的就是移植数据库（表空间必须一致）
+imp fwcpp/fwcpp@orcl file='D:\OracleData\fwcpp.dmp' fromuser=fwcpp log='D:\OracleLog\fwcpp.log' ignore=y;
+
+
+drop user fwcpp cascade;//删除用户
+drop tablespace fwcpp_data including contents and datafiles;来删除表空间
+drop tablespace fwcpp_temp including contents and datafiles;来删除表空间
+
+
+
+
+select count(*)  from user_tables;
+select * from TBLNANPUWAVEFLOWWATERTFORECAST;
+select * from nls_database_parameters;
+select * from  TBLUSERINFO;
+
+select fwcpp from dba_tablespaces ;
+
+
+//修改字符集
+http://www.2cto.com/database/201412/361245.html
+
+
+
+
+
+create sequence FWCPP.SEQCONTACTSMGR
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 61
+increment by 1
+cache 20
+order;
+/
+
+create sequence FWCPP.SEQDATABASE
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 161
+increment by 1
+cache 20
+order;
+
+/
+create sequence FWCPP.SEQFAXCONFIG
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 281
+increment by 1
+cache 20
+order;
+
+/
+create sequence FWCPP.SEQFAXCONTACTS
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 25
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQFAXCONTACTSDETAIL
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 377
+increment by 1
+nocache
+order;
+/
+create sequence FWCPP.SEQFAXSEND
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 23261
+increment by 1
+cache 20
+order;
+
+/
+create sequence FWCPP.SEQFAXSENDLOG
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 15
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQLOG
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 266
+increment by 1
+nocache
+order;
+/
+create sequence FWCPP.SEQMAILCONTACTS
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 26
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQMAILCONTACTSDETAIL
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 85
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQMAILFAXSENDLOG
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 9
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQMAILSENDLOG
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 84
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQPERMISSION
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 20
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQROLE
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 4
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQROLEPERMISSION
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 28
+increment by 1
+nocache
+order;
+/
+create sequence FWCPP.SEQSMSCONTACTS
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 14
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQSMSCONTACTSDETAIL
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 645
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQSMSSEND
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 181
+increment by 1
+cache 20
+order;
+
+/
+create sequence FWCPP.SEQSMSSENDLOG
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 38
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQUSER
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 4
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQWEIBOFILE
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 12
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQWEIBOSEND
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 101
+increment by 1
+cache 20
+order;
+
+/
+create sequence FWCPP.SEQWEIBOSENDLOG
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 11
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQWEICHATFILE
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 1
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQWEIXINSEND
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 141
+increment by 1
+cache 20
+order;
+
+/
+create sequence FWCPP.SEQWEIXINSENDLOG
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 12
+increment by 1
+nocache
+order;
+
+/
+create sequence FWCPP.SEQSMSSend
+minvalue 1
+maxvalue 9999999999999999999999999999
+start with 1
+increment by 1
+cache 20
+order;
+
+/
+
+
+
+

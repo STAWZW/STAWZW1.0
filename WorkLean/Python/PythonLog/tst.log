@@ -1,0 +1,5 @@
+2019-09-06 17:15:27,254 - log1 - DEBUG - debug message
+2019-09-06 17:15:27,254 - log1 - INFO - info message
+2019-09-06 17:15:27,255 - log1 - WARNING - warn message
+2019-09-06 17:15:27,256 - log1 - ERROR - error message
+2019-09-06 17:15:27,257 - log1 - CRITICAL - critical message
