@@ -1,0 +1,7 @@
+earthquake-------地震
+forestFire-------森林火灾
+landslide--------滑坡
+rainstorm--------暴雨
+stormSurge-------风暴潮
+tsunami----------海啸
+typhoon----------台风

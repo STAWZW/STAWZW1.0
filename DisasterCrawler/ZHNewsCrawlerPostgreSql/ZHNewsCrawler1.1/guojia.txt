@@ -1,0 +1,144 @@
+阿根廷	ARG, AR	西班牙语	ES	HERE,Geonames
+澳洲	AUS, AU	英文	EN	HERE,PSMA Australia,Geonames
+奥地利	AUT, AT	德语、克罗地亚语、音译克罗地亚语	DE, CR, EN	HERE,BEV,Geonames
+比利时	BEL, BE	荷兰语、法语、德语	NL, FR, DE	HERE,Geonames
+巴西	BRA, BR	葡萄牙语	PT	HERE,Geonames
+加拿大	CAN, CA	英语、法语	EN, FR	HERE,Geonames
+智利	CHL, CL	西班牙语	ES	HERE,Geonames
+克罗地亚	HRV, HR	克罗地亚语、音译克罗地亚语	CR, EN	HERE,Geonames
+捷克共和国	CZE, CZ	捷克语、音译捷克语	CS, EN	HERE,Geonames
+丹麦	DNK, DK	丹麦语	DA	HERE,Geonames
+爱沙尼亚	EST, EE	爱沙尼亚语、音译爱沙尼亚语	ET, EN	HERE,Maa-amet,Geonames
+芬兰	FIN, FI	芬兰语、瑞典语	FI, SV	HERE,Geonames
+法国	FRA, FR	法语	FR	HERE,Geonames
+德国	DEU, DE	德语	DE	HERE,Geonames
+希腊	GRC, GR	希腊语、音译希腊语	EL, EN	HERE,Geonames
+危地马拉	GTM, GT	西班牙语	ES	GEOSISTEC, HERE, Geonames
+中国香港特别行政区	HKG, HK	中文（繁体）、拼音	ZH, EN	HERE,Starnet Technology Ltd.,Geonames
+匈牙利	HUN, HU	匈牙利语、音译匈牙利语	HU, EN	HERE,Geonames
+冰岛	ISL, IS	冰岛语	IS	HERE,Geonames
+爱尔兰	IRL, IE	英语、爱尔兰盖尔语	EN, GA	HERE,Geonames
+以色列	ISR, IL	希伯来语、音译希伯来语、阿拉伯语、音译阿拉伯语、英语、俄语、音译俄语	HE, EN, AR, RU	HERE,Geonames,CBS,SPNI NETIVEI,NPA
+意大利	ITA, IT	意大利语、加泰罗尼亚语、法语、德语	IT, CA, FR, DE	HERE,Geonames
+日本	JPN, JP	日语、音译日语、英语	JA, EN	INCREMENT P, HERE, Geonames, GSI Japan
+拉脱维亚	LVA, LV	拉脱维亚语、音译拉脱维亚语	LV, EN	HERE,Geonames
+列支敦士登	LIE, LI	德语	DE	HERE,Geonames
+立陶宛	LTU, LT	立陶宛语、音译立陶宛语	LT, EN	HERE,Geonames
+卢森堡	LUX, LU	法语、德语	FR, DE	HERE,Geonames
+荷兰	NLD, NL	荷兰语	NL	HERE,BAG,Geonames
+新西兰	NZL, NZ	英文	EN	HERE,NZ Fire,Geonames
+挪威	NOR, NO	挪威语	NO	HERE,Geonames
+秘鲁	PER, PE	西班牙语	ES	HERE,Telematica,Geonames
+波兰	POL, PL	波兰语、音译波兰语	PL, EN	HERE,Geonames
+葡萄牙	PRT, PT	葡萄牙语	PT	HERE,Geonames
+留尼旺岛	REU, RE	法语	FR	HERE,Geonames
+罗马尼亚	ROU, RO	罗马尼亚语、音译罗马尼亚语	RO, EN	HERE,Geonames
+俄罗斯联邦	RUS, RU	俄语、音译俄语	RU, EN	HERE,Geonames
+新加坡	SGP, SG	英文	EN	GeoLogic Pte Ltd., HERE, Geonames
+斯洛伐克共和国	SVK, SK	斯洛伐克语、音译斯洛伐克语	SK, EN	HERE,Geonames
+斯洛文尼亚	SVN, SI	斯洛文尼亚语、音译斯洛文尼亚语	SL, EN	HERE,Geonames
+西班牙	ESP, ES	西班牙语、加泰罗尼亚语、加利西亚语、巴斯克语	ES, CA, GL, EU	HERE,Geonames
+苏里南	SUR, SR	荷兰语	NL	mv GISsat, HERE, Geonames
+瑞典	SWE, SE	瑞典语	SV	HERE,Geonames
+瑞士	CHE, CH	法语、德语、意大利语	FR, DE, IT	HERE,Geonames
+土耳其	TUR, TR	土耳其语、音译土耳其语	TR, EN	HERE,Geonames
+英国	GBR, GB	英语、法语、威尔士语	EN, FR, CY	HERE,Geonames
+美国	USA, US	英语、西班牙语	EN, ES	opendata.dc.gov,Esri,HERE,Geonames 和 GIS 用户社区
+乌拉圭	URY, UY	西班牙语	ES	HERE,Geonames
+安道尔	AND, AD	加泰罗尼亚语	CA	HERE,Geonames
+白俄罗斯	BLR, BY	白俄罗斯语、音译白俄罗斯语、俄语、音译俄语	BE, RU, EN	HERE,Geonames
+保加利亚	BGR, BG	保加利亚语、音译保加利亚语	BG, EN	HERE,Geonames
+开曼群岛	CYM, KY	英文	EN	HERE,Geonames
+中国	CHN, CN	简体中文	ZH	AutoNavi Software Company, Ltd.,Geonames
+哥伦比亚	COL, CO	西班牙语	ES	HERE,Geonames
+法罗群岛	FRO,FO	法罗语	FO	HERE,Geonames
+法属圭亚那	GUF, GF	法语	FR	HERE,Geonames
+直布罗陀	GIB, GI	英文	EN	HERE,Geonames
+哈萨克斯坦	KAZ, KZ	哈萨克语、音译哈萨克语、俄语、音译俄语	KK, RU, EN	HERE,Geonames
+科威特	KWT, KW	阿拉伯语、音译阿拉伯语、英语	AR, EN	HERE,Geonames
+马其顿	MKD, MK	马其顿语、音译马其顿语	MK, EN	HERE,Geonames
+马来西亚	MYS, MY	马来语	MS	HERE,Geonames
+墨西哥城	MEX, MX	西班牙语	ES	HERE,Geonames
+摩纳哥	MCO, MC	法语	FR	HERE,Geonames
+菲律宾	PHL, PH	英文	EN	HERE,Geonames
+卡塔尔	QAT, QA	阿拉伯语、音译阿拉伯语、英语	AR, EN	HERE,Geonames
+圣马力诺	SMR, SM	意大利语	IT	HERE,Geonames
+沙特阿拉伯	SAU, SA	阿拉伯语、音译阿拉伯语、英语	AR, EN	HERE,Geonames
+塞尔维亚	SRB, RS	塞尔维亚语、音译塞尔维亚语	SR, EN	HERE,Geonames
+南非	ZAF, ZA	英文	EN	HERE,Geonames
+韩国	KOR, KR	韩语	KO	HERE,Geonames
+中国台湾	TWN, TW	中文（繁体）、拼音	ZH, EN	HERE,Geonames
+泰国	THA, TH	泰语、音译泰语	TH, EN	Globetech, HERE, Geonames
+乌克兰	UKR, UA	乌克兰语、音译乌克兰语、俄语、音译俄语	UK, RU, EN	HERE,Geonames
+阿拉伯联合酋长国	ARE, AE	阿拉伯语、音译阿拉伯语、英语	AR, EN	HERE,Geonames
+梵蒂冈城	VAT, VA	意大利语	IT	HERE,Geonames
+委内瑞拉	VEN, VE	西班牙语	ES	HERE,Geonames
+越南	VNM, VN	越南语、音译越南语	VI, EN	HERE,Geonames
+阿尔巴尼亚	ALB, AL	阿尔巴尼亚语	SQ	HERE,Geonames
+阿尔及利亚	DZA,DZ	阿拉伯语、法语	AR,FR	HERE,Geonames
+亚美尼亚城	ARM,AM	亚美尼亚语、音译亚美尼亚语	HY,EN	HERE,Geonames
+阿鲁巴	ABW,AW	荷兰语	NL	HERE,Geonames
+巴哈马	BHS, BS	英文	EN	HERE,Geonames
+巴林	BHR, BH	阿拉伯语、音译阿拉伯语、英语	AR, EN	HERE,Geonames
+孟加拉国	BGD,BD	孟加拉语、音译孟加拉语、英语	BN,EN	HERE,Geonames
+伯利兹区	BLZ, BZ	英文	EN	HERE,Geonames
+百慕大	BMU,BM	英文	EN	HERE,Geonames
+玻利维亚	BOL,BO	西班牙语	ES	HERE,Geonames
+波黑	BIH, BA	波斯尼亚语、音译波斯尼亚语、塞尔维亚语、音译塞尔维亚语	BS, SR, EN	HERE,Geonames
+博茨瓦那	BWA, BW	英文	EN	HERE,Geonames
+文莱	BRN, BN	马来语	MS	HERE,Geonames
+柬埔寨	KHM, KH	英文	EN	HERE,Geonames
+圣诞岛	CXR,CX	英文	EN	HERE,Geonames
+科科斯(基林)群岛	CCK,CC	英文	EN	HERE,Geonames
+哥斯达黎加	CRI, CR	西班牙语	ES	HERE,Geonames
+科特迪瓦	CIV,CI	法语	FR	HERE,Geonames
+古巴	CUB,CU	西班牙语	ES	HERE,Geonames
+塞浦路斯	CYP,CY	希腊语、音译希腊语、土耳其语、音译土耳其语、英语	EL,TR,EN	HERE,Geonames
+多米尼加共和国	DOM,DO	西班牙语	ES	HERE,Geonames
+厄瓜多尔	ECU,EC	西班牙语	ES	HERE,Geonames
+埃及	EGY, EG	阿拉伯语、音译阿拉伯语、英语	AR, EN	HERE,Geonames
+萨尔瓦多	SLV,SV	西班牙语	ES	HERE,Geonames
+斐济	FJI,FJ	英文	EN	HERE,Geonames
+法属波利尼西亚	PYF,PF	法语	FR	HERE,Geonames
+加蓬	GAB,GA	法语	FR	HERE,Geonames
+格鲁吉亚	GEO,GE	格鲁吉亚语、音译格鲁吉亚语、俄语、音译俄语	KA,RU,EN	HERE,Geonames
+法属瓜德罗普岛	GLP, GP	法语	FR	HERE,Geonames
+洪都拉斯	HND,HN	西班牙语	ES	HERE,Geonames
+印度	IND, IN	英语、阿萨姆语、音译阿萨姆语、孟加拉语、音译孟加拉语、印度语、音译印度语	EN, AS, BN, HI	HERE,Geonames
+印度尼西亚	IDN, ID	印度尼西亚语	ID	HERE,Geonames
+牙买加	JAM,JM	英文	EN	HERE,Geonames
+霍尔丹	JOR, JO	阿拉伯语、音译阿拉伯语、英语	AR, EN	HERE,Geonames
+肯尼亚	KEN, KE	英文	EN	HERE,Geonames
+科索沃	RKS, KOS, XK	阿尔巴尼亚语、克罗地亚语、音译克罗地亚语	SQ, CR	HERE,Geonames
+黎巴嫩	LBN, LB	阿拉伯语、法语	AR, FR	HERE,Geonames
+莱索托	LSO, LS	英文	EN	HERE,Geonames
+利韦里亚	LBR,LR	英文	EN	HERE,Geonames
+利比亚	LBY,LY	阿拉伯语、音译阿拉伯语、英语	AR,EN	HERE,Geonames
+中国澳门	MAC, MO	中文（繁体）、葡萄牙语	ZH, PT	HERE,Geonames
+马尔代夫	MDV,MV	英文	EN	HERE,Geonames
+马耳他	MLT, MT	马耳他语、音译马耳他语、英语	MT, EN	HERE,Geonames
+马提尼克岛	MTQ, MQ	法语	FR	HERE,Geonames
+毛里求斯岛	MUS,MU	英文	EN	HERE,Geonames
+马约特	MYT,YT	法语	FR	HERE,Geonames
+摩尔多瓦	MDA, MD	摩尔多瓦语、音译摩尔多瓦语	MO, EN	HERE,Geonames
+黑山	MNE, ME	黑山语、音译黑山语	SR, EN	HERE,Geonames
+摩洛哥	MAR, MA	阿拉伯语、法语	AR, FR	HERE,Geonames
+莫桑比克	MOZ, MZ	葡萄牙语	PT	HERE,Geonames
+纳米比亚	NAM, NA	英文	EN	HERE,Geonames
+尼泊尔	NPL,NP	英文	EN	HERE,Geonames
+新喀里多尼亚	NCL,NC	法语	FR	HERE,Geonames
+尼日利亚	NGA, NG	英文	EN	HERE,Geonames
+诺福克岛	NFK,NF	英文	EN	HERE,Geonames
+阿曼	OMN, OM	阿拉伯语、音译阿拉伯语、英语	AR, EN	HERE,Geonames
+巴拿马	PAN, PA	西班牙语	ES	HERE,Geonames
+巴拉圭	PRY,PY	瓜拉尼语、西班牙语	GN, ES	HERE,Geonames
+阿塞拜疆共和国	AZE,AZ	阿塞拜疆语、音译阿塞拜疆语、俄语、音译俄语	AZ,RU,EN	HERE,Geonames
+圣赫勒拿岛	SHN,SH	英文	EN	HERE,Geonames
+塞内加尔	SEN,SN	法语	FR	HERE,Geonames
+斯里兰卡	LKA,LK	英文	EN	HERE,Geonames
+St. 巴泰勒米	BLM, BL	法语	FR	HERE,Geonames
+斯威士兰	SWZ, SZ	英文	EN	HERE,Geonames
+突尼斯	TUN,TN	阿拉伯语、法语	AR,FR	HERE,Geonames
+北塞浦路斯土耳其共和国	NCY	土耳其语、音译土耳其语	TR,EN	HERE,Geonames
+乌干达	UGA,UG	英文	EN	HERE,Geonames
+津巴布韦	ZWE,ZW	英文	EN	HERE,Geonames
