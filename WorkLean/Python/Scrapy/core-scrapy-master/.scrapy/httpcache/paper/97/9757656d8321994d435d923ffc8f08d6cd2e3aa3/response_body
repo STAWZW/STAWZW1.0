@@ -1,0 +1,131 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=renderer content=webkit><title>庆祝新中国成立70周年大型成就展网上展馆</title><meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" name=viewport><meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1"><meta name=apple-mobile-web-app-capable content=yes><meta name=apple-mobile-web-app-status-bar-style content=black><meta http-equiv=Content-Type content="text/html;charset=utf-8"><meta http-equiv=x-ua-compatible content="IE=edge"><link href=/static/css/app.7f00205f07359bd3159ba25b5f10144d.css rel=stylesheet></head><style>html,
+    body,
+    ul,
+    li,
+    ol,
+    dl,
+    dd,
+    dt,
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    form,
+    fieldset,
+    legend,
+    img {
+      margin: 0;
+      padding: 0;
+    }
+
+    fieldset,
+    img,
+    input,
+    textarea,
+    button {
+      border: none;
+      padding: 0;
+      margin: 0;
+      outline-style: none;
+    }
+
+    ul,
+    ol {
+      list-style: none;
+    }
+
+    input {
+      padding-top: 0;
+      padding-bottom: 0;
+      font-family: "SimSun", "宋体";
+    }
+
+    select,
+    input {
+      vertical-align: middle;
+    }
+
+    textarea {
+      resize: none;
+    }
+
+
+    /*防止拖动*/
+
+    img {
+      border: 0;
+      vertical-align: middle;
+    }
+
+
+    /*  去掉图片低测默认的3像素空白缝隙*/
+
+    table {
+      border-collapse: collapse;
+    }
+
+    .clearfix:before,
+    .clearfix:after {
+      content: "";
+      display: table;
+    }
+
+    .clearfix:after {
+      clear: both;
+    }
+
+    .clearfix {
+      *zoom: 1;
+      /*IE/7/6*/
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      text-decoration: none;
+      font-weight: normal;
+      font-size: 100%;
+    }
+
+    s,
+    i,
+    em {
+      font-style: normal;
+      text-decoration: none;
+    }
+
+    select,
+    input,
+    textarea {
+      font-size: 12px;
+      margin: 0;
+    }
+
+    a {
+      color: #333;
+      text-decoration: none;
+    }
+    *,
+    *:before,
+    *:after {
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    body {
+      /*font: 12px/150% "Microsoft YaHei","\5b8b\4f53",Arial, Verdana;*/
+      font: 0.16rem/150% Arial, Verdana, "微软雅黑";
+      color: #666;
+      background: #fff
+    }
+    input{outline:0;text-decoration:none}input:checked{background:0}
+    input,div,a{outline:0;-webkit-tap-highlight-color:transparent;-webkit-touch-callout: none;}</style><body><script src=./static/service/jquery-1.11.0.min.js></script><script src=./static/config/index.js></script><script src=./static/service/index.js></script><script src=./static/pano/pano.js></script><audio src=./static/audio/1.mp3 id=audio></audio><div id=app></div><script type=text/javascript src=/static/js/manifest.2ae2e69a05c33dfc65f8.js></script><script type=text/javascript src=/static/js/vendor.156bc87061c66a0df466.js></script><script type=text/javascript src=/static/js/app.f41a45470c69f2a01430.js></script></body><script>document.oncontextmenu = function(){
+        event.returnValue = false;
+    }</script></html>

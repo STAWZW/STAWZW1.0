@@ -1,0 +1,15 @@
+Last-Modified: Mon, 23 Sep 2019 19:42:53 +0800
+Expires: Mon, 23 Sep 2019 19:51:13 +0800
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' http://*.qq.com https://*.qq.com http://*.weishi.com https://*.weishi.com 'nonce-1784058015';style-src 'self' 'unsafe-inline' http://*.qq.com https://*.qq.com;object-src 'self' http://*.qq.com https://*.qq.com http://*.qpic.cn https://*.qpic.cn http://*.qlogo.cn https://*.qlogo.cn;font-src 'self' data: http://*.qq.com https://*.qq.com http://fonts.gstatic.com https://fonts.gstatic.com;frame-ancestors 'self' http://wx.qq.com https://wx.qq.com http://wx2.qq.com https://wx2.qq.com  http://wx8.qq.com https://wx8.qq.com http://web.wechat.com https://web.wechat.com http://web1.wechat.com https://web1.wechat.com http://web2.wechat.com https://web2.wechat.com http://sticker.weixin.qq.com https://sticker.weixin.qq.com http://bang.qq.com https://bang.qq.com http://app.work.weixin.qq.com https://app.work.weixin.qq.com http://work.weixin.qq.com https://work.weixin.qq.com http://finance.qq.com https://finance.qq.com http://gu.qq.com https://gu.qq.com http://wzq.tenpay.com https://wzq.tenpay.com http://test.tcp.tencent.com https://test.tcp.tencent.com http://dev.tcp.tencent.com https://dev.tcp.tencent.com http://tcp.tencent.com https://tcp.tencent.com http://mail.qq.com https://mail.qq.com http://wx.mail.qq.com https://wx.mail.qq.com http://iwx.mail.qq.com https://iwx.mail.qq.com http://dev.mail.qq.com https://dev.mail.qq.com;report-uri https://mp.weixin.qq.com/mp/fereport?action=csp_report
+Content-Type: text/html; charset=UTF-8
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=500
+Retkey: 14
+Logicret: 0
+Strict-Transport-Security: max-age=0
+Set-Cookie: rewardsn=; Path=/
+Set-Cookie: payforreadsn=EXPIRED; Path=/; Expires=Sun, 22-Sep-2019 11:42:53 GMT; HttpOnly
+Set-Cookie: wxtokenkey=777; Path=/; HttpOnly
+Mmlas-Verifyresult: CAE=
+Content-Encoding: gzip
+Date: Mon, 23 Sep 2019 11:42:54 GMT

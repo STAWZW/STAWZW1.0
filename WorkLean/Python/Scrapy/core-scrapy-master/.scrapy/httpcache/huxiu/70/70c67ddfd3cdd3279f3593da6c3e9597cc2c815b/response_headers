@@ -1,0 +1,13 @@
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Requested-With
+Access-Control-Allow-Methods: GET,POST,OPTIONS
+Access-Control-Allow-Origin: 0
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Context-Type: text/html
+Date: Wed, 25 Sep 2019 08:36:46 GMT
+Etag: W/"d9e0-cXheVWXas4CUi9b6Ki7FvRvafko"
+Set-Cookie: __secdyid=a0388cbb01d5c2239831965430908c4c7c816c9e6ccd5d31021569400606; Expires=Thu, 24 Sep 2020 08:36:46 GMT; HttpOnly
+Set-Cookie: SERVERID=f60b85c1ffd425d843469f623dc2b612|1569400606|1569400606;Path=/
+Vary: Accept-Encoding
+X-Powered-By: Express

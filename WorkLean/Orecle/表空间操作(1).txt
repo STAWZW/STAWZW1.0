@@ -1,0 +1,59 @@
+扩展表空间 表空间扩展
+1、修改表空间属性
+
+alter database datafile '文件路径' autoextend on next 100m maxsize 4000M;?
+
+alter database datafile 'E:\ORACLE\BH\CMNPDB_DATA.DBF autoextend on next 100m maxsize unlimited
+
+2、增加文件
+
+alter tablespace jack_data add datafile '数据文件路径‘ size 1000m autoextend on next 100m maxsize 4000M?
+
+alter tablespace cmnpdb_data add datafile 'E:\ORACLE\BH /cmnpdb_data02.DBF' size 1024m autoextend on next 200m maxsize unlimited?
+
+alter tablespace cmnpdb_data add datafile 'D:\APP\ADMINISTRATOR\ORADATA\ORCL\CMNP_DATA04.DBF’ size 1024m autoextend on next 200m maxsize 20000M
+
+
+
+
+
+表空间信息查看
+--- 查看名称及大小
+select t.tablespace_name,round(sum(bytes/(1024*1024)),0)ts_size from dba_tablespaces t, dba_data_files d 
+  where t.tablespace_name=d.tablespace_name group by t.tablespace_name;
+
+--查看表空间物理文件的名称及大小
+select tablespace_name,file_id,file_name,round(bytes/(1024*1024),0)total_space from dba_data_files 
+  order by tablespace_name;
+
+--查看表空间使用率：
+SELECT UPPER(F.TABLESPACE_NAME) "表空间名",
+　　D.TOT_GROOTTE_MB "表空间大小(M)",
+　　D.TOT_GROOTTE_MB - F.TOTAL_BYTES "已使用空间(M)",
+　　TO_CHAR(ROUND((D.TOT_GROOTTE_MB - F.TOTAL_BYTES) / D.TOT_GROOTTE_MB * 100,2),'990.99') || '%' "使用率",
+　　F.TOTAL_BYTES "空闲空间(M)",
+　　F.MAX_BYTES "最大块(M)"
+　　FROM (SELECT TABLESPACE_NAME,
+　　ROUND(SUM(BYTES) / (1024 * 1024), 2) TOTAL_BYTES,
+　　ROUND(MAX(BYTES) / (1024 * 1024), 2) MAX_BYTES
+　　FROM SYS.DBA_FREE_SPACE
+　　GROUP BY TABLESPACE_NAME) F,
+　　(SELECT DD.TABLESPACE_NAME,
+　　 ROUND(SUM(DD.BYTES) / (1024 * 1024), 2) TOT_GROOTTE_MB
+　　FROM SYS.DBA_DATA_FILES DD
+　　GROUP BY DD.TABLESPACE_NAME) D
+　　WHERE D.TABLESPACE_NAME = F.TABLESPACE_NAME
+　　ORDER BY "使用率" desc;
+
+
+--查看表空间的使用情况
+select sum(bytes)/(1024*1024) as free_space,tablespace_name from dba_free_space group by tablespace_name;
+
+select a.tablespace_name,a.bytes total,b.bytes used,c.bytes free,(b.bytes*100)/a.bytes "% USSED",(c.bytes*100)/a.bytes "% FREE" from sys.sm$ts_avail a,sys.sm$ts_used b,sys.sm$ts_free c where a.tablespace_name=b.tablespace_name and a.tablespace_name=c.tablespace_name;
+
+--查看是否开启自动扩展
+SELECT T.TABLESPACE_NAME,D.FILE_NAME,D.AUTOEXTENSIBLE,D.BYTES,D.MAXBYTES,D.STATUS 
+FROM DBA_TABLESPACES T,DBA_DATA_FILES D 
+WHERE T.TABLESPACE_NAME =D.TABLESPACE_NAME 
+ORDER BY TABLESPACE_NAME,FILE_NAME; 
+

@@ -1,0 +1,29 @@
+Server: Tengine
+Content-Type: image/jpeg
+Date: Thu, 26 Sep 2019 04:00:21 GMT
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: X-Log, X-Reqid
+Access-Control-Max-Age: 2592000
+Cache-Control: public, max-age=31536000
+Content-Disposition: inline; filename="175520043352.jpg"; filename*=utf-8''175520043352.jpg
+Content-Transfer-Encoding: binary
+Etag: "APFVP4tjAu-_qvkYqFngD8_DGCEv"
+Expires: Thu, 26 Sep 2019 09:55:24 GMT
+X-Crc-Encoded: 1
+X-Log: BOOTS-GATE:133;X-Log;FUSIONGATE:135
+X-M-Log: QNM:xs473;QNM3
+X-M-Reqid: swMAADZOLVcI4ccV
+X-Qiniu-Zone: 0
+X-Qnm-Cache: Hit
+X-Reqid: swMAAJjtyM_TpccV
+X-Slim-Origin: 0
+X-Svr: IO
+Ali-Swift-Global-Savetime: 1569470421
+Via: cache49.l2cn1805[0,200-0,H], cache26.l2cn1805[0,0], cache18.cn1220[0,200-0,H], cache14.cn1220[1,0]
+Age: 12724
+X-Cache: HIT TCP_MEM_HIT dirn:12:426777684
+X-Swift-Savetime: Thu, 26 Sep 2019 04:00:50 GMT
+X-Swift-Cachetime: 31104000
+Timing-Allow-Origin: *
+Eagleid: 77a7eda215694831459012329e

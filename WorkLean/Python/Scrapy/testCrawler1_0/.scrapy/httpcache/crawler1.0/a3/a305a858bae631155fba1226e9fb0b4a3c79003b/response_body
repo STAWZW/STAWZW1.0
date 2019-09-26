@@ -1,0 +1,2458 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="https://irs01.com/irt?_iwt_UA=UA-thepaper-000002&amp;jsonp=_3W285"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=0.8, minimum-scale=0.8, maximum-scale=3.0, user-scalable=yes">
+<meta http-equiv="content-language" content="zh-CN">
+<meta name="alexaVerifyID" content="HGPluAcOEtxdnfBS1mVdMVCM1ro">
+<meta name="Keywords" content="澎湃，Paper，The Paper，热问答，新闻跟踪，政治，时政，政经，澎湃新闻，新闻，思想，原创新闻，突发新闻，独家报道，上海报业，东方早报，东方报业，上海东方报业">
+<meta name="Description" content="澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践，澎湃，澎湃新闻，澎湃新闻网，新闻与思想">
+<title>澎湃新闻-专注时政与思想-ThePaper.cn</title>
+<link rel="shortcut icon" href="//file.thepaper.cn/www/v3/img/thepaper.ico" mce_href="//file.thepaper.cn/www/v3/img/thepaper.ico" type="image/x-icon">
+<link rel="icon" href="//file.thepaper.cn/www/v3/img/thepaper.ico" mce_href="//file.thepaper.cn/www/v3/img/thepaper.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="//file.thepaper.cn/www/v3/css/css.css?v=6.4">
+<link rel="stylesheet" type="text/css" href="//file.thepaper.cn/www/v3/css/style.css?v=6.4">
+<link rel="stylesheet" type="text/css" href="//file.thepaper.cn/www/v3/css/ask.css?v=6.4">
+<link rel="stylesheet" type="text/css" href="//file.thepaper.cn/www/v3/css/video.css?v=6.4">
+<link rel="stylesheet" type="text/css" href="//file.thepaper.cn/www/v3/css/news.css?v=6.4">
+<script src="//hm.baidu.com/hm.js?94a1e06bbce219d29285cee2e37d1d26"></script><script type="text/javascript" src="//file.thepaper.cn/www/v3/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="//file.thepaper.cn/www/v3/js/jquery.infinitescroll.js"></script>
+<script type="text/javascript" src="//file.thepaper.cn/www/v3/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="//file.thepaper.cn/www/v3/js/jquery.masonry.js"></script>
+<script type="text/javascript" src="//file.thepaper.cn/www/v3/js/main-3.0.js?v=6.4"></script>
+<script type="text/javascript" src="//file.thepaper.cn/www/v3/js/login.js?v=6.4"></script>
+<script type="text/javascript" src="//file.thepaper.cn/www/v3/js/pjax.js?v=6.4"></script>
+<script type="text/javascript" src="//file.thepaper.cn/www/v3/js/jquery.SuperSlide2.js"></script>
+	<style type="text/css">
+		.main_ltad{max-height:120px}
+.main_ltad video {
+    max-height: 120px !important;
+    max-width: 940px !important;
+}
+	</style>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?94a1e06bbce219d29285cee2e37d1d26";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script type="text/javascript">  
+    function browserRedirect() {  
+        var sUserAgent = navigator.userAgent.toLowerCase();
+        var Android = sUserAgent.match(/android/i) == "android";
+        var Linux =  sUserAgent.match(/linux/i) == "linux";
+        var Mobi = sUserAgent.match(/mobi/i) == "mobi";
+        var Pad = sUserAgent.match(/pad/i) == "pad";
+        var IOS = sUserAgent.match(/ios/i) == "ios";
+        var iPad = sUserAgent.match(/ipad/i) == "ipad";
+        var iPhone = sUserAgent.match(/iphone/i) == "iphone";
+        var Windows_Phone = sUserAgent.match(/windows iphone/i) == "windows iphone";
+        var Symbian = sUserAgent.match(/symbian/i) == "symbian";
+        var ishttps = 'https:' == document.location.protocol ? 'https://': 'http://'; 
+        //var ishttps = '//'; 
+        
+        if ((Android || Linux) && Mobi && !Pad || (IOS && !iPad) || iPhone || Windows_Phone || Symbian){
+            var curHref = window.location.href;
+            if (curHref.indexOf(ishttps+"thepaper.cn") == 0 ){
+                window.location.href=curHref.replace(ishttps+"thepaper.cn",ishttps+"m.thepaper.cn");
+            }
+            if (curHref.indexOf(ishttps+"www.thepaper.cn") == 0 ){
+                window.location.href=curHref.replace(ishttps+"www.thepaper.cn",ishttps+"m.thepaper.cn");
+            }
+        } 
+    }  
+    browserRedirect();
+</script></head>
+<body>
+<script type="text/javascript">
+getMsgMark();
+</script>
+<style>
+.close_jumb{position: absolute;right: 10px;top: 5px;background: #333;color: #fff;width: 15px;text-align: center;display:none;}
+#video_head_ad,#video_head_ad .video_head_ad,#pic_head_ad{position:relative;}
+#video_head_ad .corner_lable,#pic_head_ad .corner_lable{position: absolute;bottom: 0px;right:0;}
+.head_ad .pic_head_ad{height:auto;}
+.close_jumb:hover{cursor: pointer;}    
+</style>
+<!-- new head AD logic -->
+<!-- picture case -->
+<div class="head_ad" id="pic_head_ad" style="display: none">
+   <div class="pic_head_ad">
+      <a href="" target="_blank" ref="nofollow">
+         <img src="">
+      </a>
+      <div class="corner_lable">
+         <img src="//adpai.thepaper.cn/static/images/adflag.png">
+      </div>
+      <span class="close_jumb" onclick="closeJumb('#pic_head_ad')">X</span>
+   </div>
+</div>
+
+<!-- video case -->
+<div class="head_ad" id="video_head_ad" style="display: none">
+   <div class="video_head_ad">
+	   <a href="" ref="nofollow">
+	      <video id="head_ad_video" src="" poster="" autoplay="autoplay" loop="loop" width="1200" height="120"></video>
+	   </a>
+	   <span class="close_jumb" onclick="closeJumb('#head_ad_video')">X</span>
+   </div>
+</div>
+
+<!-- old head AD logic -->
+<div class="head_ad" id="head_ad" style="display: none">
+   <script type="text/javascript" src="//adpai.thepaper.cn/s?z=paper&amp;c=34&amp;WD-CLIENT-TYPE=05"></script><div style="width:100%;height:auto;border:none;padding:0px;margin:0px;overflow:hidden;position:relative;"><a trueurl="" attrurl="//adpai.thepaper.cn/c?ap=34&amp;ad=5415&amp;PAPER-CLIENT-TYPE=05&amp;u=" href="javascript:void(0);" onclick="ad_clickMonitor(this)" ref="nofollow"><img src="//imgadpai.thepaper.cn/adstatics//images/befa72693ea94b6bab3835e64d09e389/2019/09/1569076521733048520.png" height="120" width="1200" style="width:100%;height:auto;border:none;"></a></div><script type="text/javascript">function AD_SENDURL(url) { $.ajax({type: "POST",url: url,datatype: "text",success: function (msg) {}});}function ad_clickMonitor(objtemp){if($(objtemp).attr("trueurl")==null || $(objtemp).attr("trueurl")==""){return false;}window.open($(objtemp).attr("trueurl"),"_blank"); AD_SENDURL($(objtemp).attr("attrurl"));}AD_SENDURL("//adpai.thepaper.cn/e?ap=34&ad=5415&PAPER-CLIENT-TYPE=05");</script>
+   </div>
+
+<div class="head hdbk" style="width: 100%;">
+   <div id="head" style="width: 100%;">
+      <div class="head_rt" id="loginManage" style="right: 214px;"><span class="verticalAlign"></span>
+         <div class="head_info clearfix">
+            <a href="contribute.jsp">报料</a>
+               <a href="javascript:registerwdsshow();">注册</a>
+               <a href="javascript:lgwdsshow();" style="border:0;">登录</a>
+            <div class="hdif_s clearfix search_father">
+               <form action="searchResult.jsp" id="searchResult">
+                  <input type="button" class="hds_bt" id="search_key">
+                  <input autofocus="autofocus" autocomplete="off" type="text" name="inpsearch" class="hds_inp" id="hds_inp" value="" maxlength="20">
+               </form>
+               <div class="hdifani" id="hdshowsearch"></div>
+            </div>
+            
+            <div class="download">下载APP
+                <div class="rtapp_down">
+                    <img style="" src="../img/app_down.png" alt="客户端下载" border="0" usemap="#topdownload">
+                    <map name="topdownload" id="topdownload">
+                        <area shape="rect" coords="3,3,147,148" href="https://at.umeng.com/T5juOb" ref="nofollow">
+                        <area shape="rect" coords="2,160,72,182" href="https://itunes.apple.com/cn/app/id878962716?mt=8" target="_blank" ref="nofollow">
+                        <area shape="rect" coords="87,161,146,182" href="https://itunes.apple.com/cn/app/id986646876?mt=8" target="_blank" ref="nofollow">
+                        <area shape="rect" coords="3,186,80,208" href="//m.thepaper.cn/download?id=2" ref="nofollow">
+                    </map>
+                </div>
+            </div>
+
+         </div>
+      </div>
+      <div class="head_bd">
+         <span class="verticalAlign"></span>
+         <div class="head_logo"><span class="verticalAlign"></span><a href="/" title="澎湃新闻"><img src="//file.thepaper.cn/www/v3/img/logo116.png"></a></div>
+         <div class="head_banner">
+            <div class="bn_bt index">
+               <a href="/" class="bn_a  on" id="select">精选</a>
+                  </div>
+               <div class="bn_bt">
+               <a href="channel_26916" class="bn_a">视频</a>
+                  <div style="display: none; opacity: 0;" class="slider" id="slider_video">
+                  <div class="lilt_pt">
+                     <img width="16" height="12" src="//file.thepaper.cn/www/v3/img/prompt_top.png">
+                  </div>
+                  <ul class="clearfix">
+                     <li>
+                           <a href="list_26912">上直播</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">拉近你与现场距离</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26913">七环视频</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">为了更美好的生活</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26965">温度计</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">深度记录社会冷暖</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26908">一级视场</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">及时现场，洞察财经事件</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_27260">
+                                    <p>World</p>湃</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">看见新闻全球化</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26907">湃客科技</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">聚焦前沿，展现新兴企业</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_33168">纪录湃</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">纪录澎湃中国</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26911">围观</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">以影像介入社会生活</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26918">@所有人</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">所有人在看</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26906">大都会</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">看上海 最都会</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26909">追光灯</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">让你看到文艺生活</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26910">运动装</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">直观运动，可以装不要伪装</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26914">健寻记</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">追寻活到一百岁的秘诀</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_26915">城市漫步</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">人塑造地方，地方也塑造人</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     <li>
+                           <a href="list_82188">AI播报</a>
+                              <div style="display:none;" class="li_prompt">
+                              <div class="lilt_pl">互联网新闻+：AI播报</div>
+                              <div class="lilt_pr"></div>
+                           </div>
+                        </li>
+                     </ul>
+               </div>
+            </div>
+            <div class="bn_bt">
+               <a href="channel_25950" class="bn_a">时事</a>
+                  <div style="display: none; width: 794px !important; opacity: 0;" class="slider" id="slider_news">
+                  <div class="lilt_pt"><img width="16" height="12" src="//file.thepaper.cn/www/v3/img/prompt_top.png"></div>
+                  <ul class="clearfix">
+                     <li><a href="list_25462">中国政库</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">洞悉中国动向的时政解读</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25488">中南海</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">权威细致的领导人报道</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25489">舆论场</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">倾听复杂世界的弦外之音</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25490">打虎记</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">中国反腐报道第一平台</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25423">人事风向</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">快速专业的人事信息集合地</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25426">法治中国</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">司改风向，法治观察</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25424">一号专案</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">司法个案，法治调查</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25463">港台来信</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">感觉不一样的港台报道</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25491">长三角政商</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">解读区域政情与财富故事</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25428">直击现场</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">第一现场，文图视频直播</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_68750">公益湃</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">记录公益发展，共建责任生态。</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_27604">暖闻</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">人间真善美，社会正能量。</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25464">澎湃质量报告</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">打假除劣，破套防坑——专注消费者权益保护</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25425">绿政公署</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">环境与公共健康调查</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25429">澎湃国际</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">All News In</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25481">外交学人</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">New World Order</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25430">澎湃防务</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">Cyclopedia for military</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25678">唐人街</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">海外利益，华人故事</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25427">澎湃人物</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">提供最有态度的人物报道</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25422">浦江头条</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">上海每天最重要的事件</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25487">教育家</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">最先进的教育理念在此碰撞</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25634">全景现场</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">360度感识全景现场</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25635">美数课</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">数字是骨骼，设计是灵魂</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25600">快看</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">快看，图片会说话</div><div class="lilt_pr"></div></div></li>
+                     </ul>
+                  </div>
+            </div>
+            <div class="bn_bt">
+               <a href="channel_25951" class="bn_a">财经</a>
+                  <div style="display: none; opacity: 0;" class="slider" id="slider_money">
+                  <div class="lilt_pt"><img width="16" height="12" src="//file.thepaper.cn/www/v3/img/prompt_top.png"></div>
+                  <ul class="clearfix">
+                     <li><a href="list_25434">10%公司</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">派发上市公司变革红利</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25436">能见度</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">能源行业最具穿透力的思想</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25433">地产界</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">地产界所有你想知道的事儿</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25438">财经上下游</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">跨界找寻市场常识</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25435">金改实验室</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">金融创新灵感集散地</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25437">牛市点线面</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">简单专业时尚的财富平台</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_27234">科技湃</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">让我们走近科学</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25485">澎湃商学院</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">品牌课外书，生活经济学</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25432">自贸区连线</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">自贸区第一信息和服务平台</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_37978">进博会在线</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">走进中国国际进口博览会</div><div class="lilt_pr"></div></div></li>
+                     </ul>
+               </div>
+            </div>
+
+            <div class="bn_bt">
+               <a href="channel_36079" class="bn_a pph_nav">澎湃号</a>
+                  <div style="display: none; opacity: 0;" class="slider" id="slider_pph">
+                  <div class="lilt_pt"><img width="16" height="12" src="//file.thepaper.cn/www/v3/img/prompt_top.png"></div>
+                  <ul class="clearfix">
+                     <li><a href="channel_36079">湃客</a></li>
+                     <li><a href="channel_27392">政务</a></li>
+                     <li><a href="channel_77286">媒体</a></li>
+                  </ul>
+               </div>
+            </div>
+
+            <div class="bn_bt">
+               <a href="channel_25952" class="bn_a">思想</a>
+                  <div style="display: none; opacity: 0;" class="slider" id="slider_sixiang">
+                  <div class="lilt_pt"><img width="16" height="12" src="//file.thepaper.cn/www/v3/img/prompt_top.png"></div>
+                  <ul class="clearfix">
+                     <li><a href="list_25444">社论</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">澎湃的立场</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_27224">澎湃评论</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">在这里知道更多</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26525">思想湃</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">明亮的对话，澎湃的思想</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26878">上海书评</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">全球百位华文写作名家撰稿</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25483">思想市场</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">有竞争的思想讲底蕴的政治</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25457">私家历史</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">发现历史之美</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25574">翻书党</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">微时代的首选书单</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25455">艺术评论</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">独立态度解析中外艺术热点</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26937">古代艺术</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">巡礼人类的艺术遗产</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25450">文化课</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">关注人文景观投身人类文明</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25482">逝者</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">记录逝者为世界留下的财富</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25445">澎湃研究所</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">为中国城市问题提供澎湃方案。</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25456">市政厅</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">中国城市问题专家</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25446">智库报告</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">展示全球最具价值的智库研究成果</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25536">专栏</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">名家专家，上天入地</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26506">异次元</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">打破次元壁</div><div class="lilt_pr"></div></div></li>
+                     </ul>
+               </div>
+            </div>
+
+            <div class="bn_bt">
+               <a href="channel_25953" class="bn_a">生活</a>
+                  <div style="display: none; opacity: 0;" class="slider" id="slider_life">
+                  <div class="lilt_pt"><img width="16" height="12" src="//file.thepaper.cn/www/v3/img/prompt_top.png"></div>
+                  <ul class="clearfix">
+                     <li><a href="list_25448">有戏</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">陪你过一种审美的生活</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26609">文艺范</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">一线文艺生活</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25942">身体</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">探索身体的奥秘</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26015">私·奔</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">跑步是一种态度</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25599">运动家</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">看体育如何改变世界</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25842">私家地理</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">旅途的旨趣、技艺以及乡愁</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_80623">非常品</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">用态度引领时尚</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26862">楼市</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">不一样的楼市观察</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25769">生活方式</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">更好生活，我们有一些意见</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_25990">澎湃联播</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">半个段子兽半个评论猿</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26173">视界</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">视界观，观世界</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26202">亲子学堂</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">理解孩子，认知自己</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26404">赢家</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">直击中国体育产业生存现状</div><div class="lilt_pr"></div></div></li>
+                     <li><a href="list_26490">汽车圈</a><div style="display:none;" class="li_prompt"><div class="lilt_pl">专注汽车产经报道</div><div class="lilt_pr"></div></div></li>
+                     </ul>
+               </div>
+            </div>
+            <div class="bn_bt">
+               <a href="ask_index.jsp" class="bn_a">问吧</a>
+                  </div>
+            <div class="bn_bt">
+               <a href="channel_-1" class="bn_a">订阅</a>
+                  <div id="slider_order" class="slider" style="display: none; opacity: 0;">
+                  <div class="lilt_pt">
+                     <img height="12" width="16" src="//file.thepaper.cn/www/v3/img/prompt_top.png">
+                  </div>
+                  <div class="lilt_intro">
+                        把你最喜欢的栏目添加到这里来哦
+                        <a href="javascript:lgwdsshow();">马上登录</a>
+                     </div>
+                  </div>
+            </div>
+         </div>
+      </div>
+
+   </div>
+</div>
+
+<script type="text/javascript">
+var targetProtocol = "https:";
+if (window.location.protocol != targetProtocol){
+window.location.href = targetProtocol +window.location.href.substring(window.location.protocol.length);
+}
+var href = window.location.href;
+
+if(href=="http://www.thepaper.cn"||href=="http://www.thepaper.cn/"||href=="https://www.thepaper.cn"||href=="https://www.thepaper.cn/"){
+	var bn_bt = $(".index .bn_a");
+	bn_bt.addClass("on").attr("id","select");
+}else if(href.toLowerCase().indexOf("gov")>=0){
+	var bn_bt = $(".gov_bn .bn_a");
+	bn_bt.addClass("on").attr("id","select");
+}
+    setMsgMark(); //login异步之后调用位置修改
+    var HTTP_PREFIX = "http://";
+    var headAd    = $("#head_ad");
+    var picHeadAd  = $("#pic_head_ad");
+    var videoHeadAd = $("#video_head_ad");
+    var vdLink        = $("#video_head_ad a");
+    var video     = $("#head_ad_video");
+    var picLink    = $(".head_ad .pic_head_ad a");
+    var picImg        = $(".pic_head_ad a img");
+    var cornLab       = $(".corner_lable");
+    var vTag      = "0";
+    var adVal     = "34&WD-CLIENT-TYPE=05";
+    var adAfterType	 =   "";
+    var status = "false";
+    var creative = "";
+    var videoURL = "";
+    var creativeB = "";
+    var VideoURLB = "";
+    var videoStr = '<video id="head_ad_video" src="" poster="" autoplay="autoplay" loop="loop" width="1200"></video>';
+    var nowAdType = "";
+    var adFlagStr = "";
+    var timer;
+    function handleXmlRes(advXml) {
+        // back compatibility
+        if (advXml == "") {
+            oldHeadAdProcess();
+            return;
+        } else {
+            headAd.remove();
+        }
+        // parse ad XML
+        var xmlDoc = $.parseXML(advXml);
+        var xml    = $(xmlDoc);
+        var clickMonitor = "";
+        var clickImpression = "";
+        if(typeof(xml.find("adtype")[0])!="undefined"){
+            var adtype = xml.find("adtype")[0].textContent.trim();
+            var newAdtypeStr =  new String(adtype);
+        }
+        if(typeof(xml.find("creative")[0])!="undefined"){
+            creative = xml.find("creative")[0].textContent.trim();
+        }
+        if(typeof(xml.find("adflag")[0])!="undefined"){
+            var adflag = xml.find("adflag")[0].textContent.trim();
+            var newAdflagStr = new String(adflag); 
+        }
+        if(typeof(xml.find("click")[0])!="undefined"){
+            var click = xml.find("click")[0].textContent.trim();
+        }
+        if(typeof(xml.find("Impression")[0])!="undefined"){
+            var impression = xml.find("Impression")[0].textContent;
+        }
+        if(typeof(xml.find("clickMonitor")[0])!="undefined"){
+        	clickMonitor = xml.find("clickMonitor")[0].textContent;
+        }
+        if(typeof(xml.find("clickImpression")[0])!="undefined"){
+        	clickImpression = xml.find("clickImpression")[0].textContent;
+        }
+        if(typeof(xml.find("VideoURL")[0])!="undefined"){
+             videoURL = xml.find("VideoURL")[0].textContent.trim();
+        }
+        if(newAdtypeStr.indexOf('[')>-1){
+             var adTypeStr = newAdtypeStr.substr(1, 1);
+        }else{
+             var adTypeStr = newAdtypeStr.substr(0, 1);
+        }
+        if(newAdflagStr.indexOf('[')>-1){
+             adFlagStr = newAdflagStr.substr(1, 1);
+        }else{
+             adFlagStr = newAdflagStr.substr(0, 1);
+        }
+        if (click.replace(HTTP_PREFIX, "") == "" || click.replace(HTTP_PREFIX, "") == "####") {
+            click = "javascript:;";
+            picLink.removeAttr("target");
+            picLink.addClass("defCur");
+        }
+        if(typeof(xml.find("Cexpansion")[0])!="undefined"){   
+        	var cexpansion = xml.find("Cexpansion")[0].textContent.trim();
+        }
+        // configure top video ad
+        vdLink.attr("href", click);
+        if (video != null && videoURL!="") {
+            video.attr("src", httpToSlash(videoURL));
+            video.get(0).play();
+        }
+        // configure top pic ad
+        picLink.attr("href", click);
+        picImg.attr("src", httpToSlash(creative));
+        // ad flag logic
+        if (adFlagStr == 0) {
+            cornLab.remove();
+        }
+        var clickAction = function(){
+        	if(clickMonitor!=""){
+        		clickMonitor = httpToSlash(clickMonitor);
+                $.ajax({
+                    url: clickMonitor,
+                    cache: false,
+                    crossDomain: true,
+                    success : function(data) {
+                    	clickFuntion(data);
+                    }
+                });
+        	}
+        };
+        function clickFuntion(src){
+        	src = httpToSlash(src);
+       		$(".copyright").append('<img src="'+src+'" width="1" height="1"/>');
+        }
+        
+        // ad type logic
+        if(cexpansion != 3){
+	        if(cexpansion == 0 || cexpansion == 2){
+	        	videoHeadAd.remove();
+	        	picHeadAd.show();
+	        	picHeadAd.append(cornLab[0]);
+	        	picHeadAd.click(clickAction);
+	        }else if(cexpansion == 1){
+	        	picHeadAd.remove();
+	        	videoHeadAd.show();
+	        	videoHeadAd.click(clickAction);
+	        	if(adFlagStr == 1){
+	        		videoHeadAd.append(cornLab[0]);
+	        	}
+	        }
+	    }
+         /* if (adFlagStr == 1 ) {
+            picHeadAd.show();
+            if (videoURL.replace(HTTP_PREFIX, "") != "" && cexpansion==1) {
+                setTimeout(function(){
+                    videoHeadAd.show();
+                    picHeadAd.remove();
+                }, 1500);
+            } else {
+                picHeadAd.show();
+                videoHeadAd.remove();
+            }
+        } else {
+            if (videoURL.replace(HTTP_PREFIX, "") != "") {
+                videoHeadAd.show();
+                picHeadAd.remove();
+            } else {
+                picHeadAd.show();
+                videoHeadAd.remove();
+            }
+        } */
+        // invoke impression interface once user click video
+        if (impression.trim() != "") {
+            impression = httpToSlash(impression);
+            clickFuntion(impression);
+        }
+         //图片拓展图片时
+        if(typeof(xml.find("Cexpansion")[0])!="undefined"){   //是否需要展开
+        	if(cexpansion == 3){
+        		if(adTypeStr == 1){
+        			picHeadAd.remove();
+        			videoHeadAd.show();
+        			videoHeadAd.click(clickAction);
+        			if(adFlagStr == 1){
+    	        		videoHeadAd.append(cornLab[0]);
+    	        	}
+        		}
+        		if(adTypeStr == 0){
+        			videoHeadAd.remove();
+        			picHeadAd.show();
+        			picHeadAd.click(clickAction);
+        			if(adFlagStr == 1){
+        				picHeadAd.append(cornLab[0]);
+    	        	}
+        		}
+        	}
+        	if(cexpansion==2){ 
+	            creativeB =xml.find("creativeB")[0].textContent.trim();
+	            nowAdType = "pic";
+                  var cexpansion = xml.find("Cexpansion")[0].textContent.trim();//展开时
+                	  status = "true";
+                     if(picHeadAd.css("display")!="none"){
+                    	picHeadAd.children().children().eq(0).children("img").attr("src",creativeB);
+                        picHeadAd.children().children().eq(0).children("img").animate({"height":"700px"},500,function(){
+                        	picHeadAd.children().find(".close_jumb").show();
+                            nowAdType = "pic";
+                        })
+                        timer = setTimeout(function(){
+                        	picHeadAd.children().children().eq(0).children("img").attr("src",creative);
+                        	picHeadAd.children().children().eq(0).children("img").animate({"height":"120px"},500,function(){
+                        		videoHeadAd.children().find(".close_jumb").hide(); 
+                        		picHeadAd.children().find(".close_jumb").hide();
+                        		nowAdType = "pic";
+                        	})
+                        	 clearTimeout(timer);
+                        },5000)
+                     }
+                  }
+              
+           //图片拓展视频时   
+	          if(cexpansion==0){
+	              VideoURLB = xml.find("VideoURLB")[0].textContent.trim();
+	        	  nowAdType = "pic";
+	                var cexpansion = xml.find("Cexpansion")[0].textContent.trim();
+	            	status = "true";
+	            	if(picHeadAd.css("display")!="none"){
+	            		var imgParentEle =  picHeadAd.children().children().eq(0);
+	           			imgParentEle.children("img").remove();
+	           			imgParentEle.append(videoStr);
+	           			$('#head_ad_video').attr('src',VideoURLB);
+	            		picHeadAd.animate({"height":"700px"},500,function(){
+	            			$('#head_ad_video')[0].play();
+	            			picHeadAd.children().find(".close_jumb").show();
+	            			nowAdType = "video";
+	            		})
+	            		timer = setTimeout(function(){
+	            			imgParentEle.children("video").remove();
+	   						imgParentEle.append('<img src=""/>');
+	   						imgParentEle.children("img").attr("src",creative);
+	   						imgParentEle.parent().parent().animate({"height":"120px"},500,function(){
+	       						videoHeadAd.children().find(".close_jumb").hide();
+	       						picHeadAd.children().find(".close_jumb").hide();
+	       						nowAdType="pic";
+	       					})
+	       					clearTimeout(timer);
+	       				},5000)
+	            	}
+	            }
+	    	//视频拓展视频时
+	    	if(cexpansion==1){
+	        	 VideoURLB = xml.find("VideoURLB")[0].textContent.trim();
+	        		var cexpansion = xml.find("Cexpansion")[0].textContent.trim();
+	        			status = "true";
+	        			if(videoHeadAd.children().children("a").children("video")[0].src != "none"){
+	        				video.attr("src",VideoURLB);
+	        				video.animate({"height":"700px"},500,function(){
+	        					videoHeadAd.children().find(".close_jumb").show();
+	        					video[0].play();
+	        				})
+	        				 timer = setTimeout(function(){
+	        					video.attr("src",videoURL);
+	        					video.animate({"height":"120px"},500,function(){
+	        						videoHeadAd.children().find(".close_jumb").hide();
+	        						video[0].play();
+	        						clearTimeout(timer);
+	        					})
+	        				},5000)
+	        			}
+	        	 }
+	         }
+    	}
+    //收起广告
+    function closeJumb(id){
+    	clearTimeout(timer);
+    	if($(id).css("height")=="700px"){
+    			status = "false";
+    			if(id=="#head_ad_video"){
+    				var actSpan = $(id).parent().parent();
+    			}else{
+    				var actSpan = $(id).children();
+    			}
+    			if(typeof actSpan !="undefined"){
+    				actSpan.find(".close_jumb").hide();
+    			}
+    			if($(id).children().attr("class") == "pic_head_ad"){
+    				if(nowAdType == "pic"){
+    					$(id).children().children("a").children("img").animate({"height":"120px"},500,function(){
+    						$(id).children().children("a").children("img").attr("src",creative);
+    						nowAdType = "pic";
+    					});
+    					
+    				}
+    				if(nowAdType == "video"){
+    					$(id).children().children("a").children("video").remove();
+    					$(id).animate({"height":"120px"},500,function(){
+    						$(id).children().children("a").append("<img src='"+creative+"'>");
+    						if($(id).children().children("a").find("img").length>1){
+    							var selEle = $(id).children().children("a").find("img")
+    							var length = selEle.length;
+    							selEle.eq(length-1).remove()
+    						} 
+    						nowAdType = "video";
+    					});
+    				}
+       				
+    			}else if(actSpan.attr("class") == "video_head_ad"){
+    				if(typeof actSpan != "undefined"){
+    					actSpan.find(".close_jumb").hide();
+            			actSpan.find(".open_jumb").show();
+    				}
+    				$(id).attr("src",videoURL);
+    				$(id).animate({"height":"120px"},500,function(){
+    					$(id)[0].play();
+    				});
+    			}
+    			
+    		
+    	}
+    }
+    
+    //将 http://或者https:// 转为//
+    function httpToSlash(url){
+        if(typeof(url) != "undefined"){
+            if(url.indexOf("https:") === 0){
+                url = url.replace("https:","");
+            }else if(url.indexOf("http:") === 0){
+                url = url.replace("http:","");
+            }
+        }
+        return url;
+    }
+    
+    function oldHeadAdProcess() {
+        picHeadAd.remove();
+        videoHeadAd.remove();
+        headAd.show();
+        return;
+    }
+    function vNewsProcess() {
+        if (vTag == "vNews") {
+            $("#pic_head_ad").remove();
+            $("#pic_head").remove();
+            $("body").prepend($(".head"));
+            $("body").prepend($(".head_ad"));
+            $("#topJsp").remove();
+        }
+    }
+    $(document).ready(function() {
+    	if(status == "true"){
+    		var actSpan = $("#video_head_ad") || $("#pic_head_ad");
+    		actSpan.find(".close_jumb").show();
+    	}
+        if ("true"!="true") {
+            picHeadAd.remove();
+            videoHeadAd.remove();
+            headAd.remove();
+            vNewsProcess();
+            return;
+        }
+        $("#search_key").on("click",function(){
+            $("#searchResult").submit();
+        })
+
+        // ad video process
+        if (adVal != null && adVal != '') {
+            $.ajax({
+                url: "//adpai.thepaper.cn/s?",
+                data: "c=" + adVal + "&op=1",
+                cache: false,
+                crossDomain: true,
+                success: function(xml) {
+                    handleXmlRes(xml);
+                },
+                error: function() {
+                    oldHeadAdProcess();
+                    console.log("Head Ad request error!");
+                    return;
+                }
+            });
+        }
+        vNewsProcess();
+
+    });
+</script><div class="pjax-switch" id="pjax-switch">
+    <a id="t-prev" href="javascript:void(0);" style="top: 384px;" class="">
+        <i></i>
+        <span>订阅</span>
+    </a>
+    <a id="t-next" href="javascript:void(0);" style="top: 384px;" class="">
+        <i></i>
+        <span>视频</span>
+    </a>
+</div>
+
+<div class="bdwd main clearfix">
+<div class="pjax-wrapper">
+    <div class="pjax-content">
+        <div class="prev-content">
+            <div class="pjax-loading" style="height: 305px;">
+                <div class="loading-view"></div>
+            </div>
+        </div>
+        <div id="main_lt" class="main_lt" style="min-height: 3280px;">
+            <div class="pdtt01" id="cont4499627">
+        <div class="pdtt_lt">
+            <a href="newsDetail_forward_4499627" class="tiptitleImg" data-id="4499627" target="_blank">
+                <img src="//image.thepaper.cn/image/31/551/570.png" alt="习近平对我国选手在世界技能大赛取得佳绩作出重要指示">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <div class="pdtt_rt">
+            <div class="pdtt_rtbd">
+                <h2>
+                	<a href="newsDetail_forward_4499627" id="clk4499627" target="_blank">习近平对我国选手在世界技能大赛取得佳绩作出重要指示</a>
+                </h2>
+                <p>习近平对我国选手在世界技能大赛取得佳绩作出重要指示强调，弘扬精益求精的工匠精神，激励广大青年走技能成才技能报国之路。</p>
+
+                </div>
+            <div class="pdtt_trbs">
+                <a href="list_25462" target="_blank">中国政库</a>
+                    <span>3小时前</span>
+                <div class="trbstxt">头条</div>
+	</div>
+        </div>
+    </div>
+<div class="main_ltad">
+    <script type="text/javascript" src="//adpai.thepaper.cn/s?c=38&amp;WD-CLIENT-TYPE=05"></script><div style="width:100%;height:auto;border:none;padding:0px;margin:0px;overflow:hidden;position:relative;"><a trueurl="https://www.thepaper.cn/newsDetail_forward_83471" attrurl="//adpai.thepaper.cn/c?ap=38&amp;ad=5414&amp;PAPER-CLIENT-TYPE=05&amp;u=https://www.thepaper.cn/newsDetail_forward_83471" href="javascript:void(0);" onclick="ad_clickMonitor(this)" ref="nofollow"><img src="//imgadpai.thepaper.cn/adstatics//images/befa72693ea94b6bab3835e64d09e389/2019/09/1569071873894004097.jpg" height="80" width="940" style="width:100%;height:auto;border:none;"></a></div><script type="text/javascript">function AD_SENDURL(url) { $.ajax({type: "POST",url: url,datatype: "text",success: function (msg) {}});}function ad_clickMonitor(objtemp){if($(objtemp).attr("trueurl")==null || $(objtemp).attr("trueurl")==""){return false;}window.open($(objtemp).attr("trueurl"),"_blank"); AD_SENDURL($(objtemp).attr("attrurl"));}AD_SENDURL("//adpai.thepaper.cn/e?ap=38&ad=5414&PAPER-CLIENT-TYPE=05");</script>
+        </div>
+
+<div class="news_slide">
+    <div class="newsslidebd newslist" id="newsslidebd">
+        <span id="news_masonry"></span>
+        <span id="news_list"></span>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var vieType = wwwstore.getItem("vieType");
+    if (vieType != null && vieType != "" && vieType == "masonry") {
+        $("#newsslidebd").removeClass("newslist");
+    }
+    index_onload('4499627,');
+    
+    shareTopNews('http://www.thepaper.cn');
+</script><div id="mainContent">
+                <div id="indexScroll" style="display: none">
+                    <div class="newsbox listview" id="listContent" style="min-height: 3190px;"><div class="news_li" id="cont4495122" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4495122" class="tiptitleImg" data-id="4495122" target="_blank"> <img src="//image1.thepaper.cn/image/31/489/993.jpg" alt="人民日报评论员：调动一切可以调动的积极因素">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4495122" id="clk4495122" target="_blank">人民日报评论员：调动一切可以调动的积极因素</a>
+        </h2>
+        <p>
+                尽最大可能谋求共识，在更广范围赢得共识，就能得到更多支持、争取更多主动，为攻坚克难、爬坡过坎凝聚合力。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25489" target="_blank">舆论场</a>
+                <span>8小时前</span>
+            <span class="trbszan">53</span>
+            <div class="trbstxt">推荐</div>
+	</div>
+        <div class="news_share" id="share4495122" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4495122)" ref="nofollow"></a></div><a href="javascript:showToSina(4495122,'人民日报评论员：调动一切可以调动的积极因素','https://image1.thepaper.cn/image/31/489/993.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4495122,'人民日报评论员：调动一切可以调动的积极因素','https://image1.thepaper.cn/image/31/489/993.jpg','http://www.thepaper.cn','尽最大可能谋求共识，在更广范围赢得共识，就能得到更多支持、争取更多主动，为攻坚克难、爬坡过坎凝聚合力。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4495122,'人民日报评论员：调动一切可以调动的积极因素','https://image1.thepaper.cn/image/31/489/993.jpg','http://www.thepaper.cn','尽最大可能谋求共识，在更广范围赢得共识，就能得到更多支持、争取更多主动，为攻坚克难、爬坡过坎凝聚合力。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500595" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500595" class="tiptitleImg" data-id="4500595" target="_blank"> <img src="//image.thepaper.cn/image/31/563/447.png" alt="国庆70周年活动新闻中心24日将举行发布会和集体采访">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500595" id="clk4500595" target="_blank">国庆70周年活动新闻中心24日将举行发布会和集体采访</a>
+        </h2>
+        <p>
+                9月24日（星期二），庆祝中华人民共和国成立70周年活动新闻中心将在梅地亚中心二层新闻发布厅举办第一场新闻发布会和第一场专题集体采访活动。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25462" target="_blank">中国政库</a>
+                <span>1小时前</span>
+            <span class="trbszan">28</span>
+            <div class="trbstxt">推荐</div>
+	</div>
+        <div class="news_share" id="share4500595" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500595)" ref="nofollow"></a></div><a href="javascript:showToSina(4500595,'国庆70周年活动新闻中心24日将举行发布会和集体采访','https://image.thepaper.cn/image/31/563/447.png','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500595,'国庆70周年活动新闻中心24日将举行发布会和集体采访','https://image.thepaper.cn/image/31/563/447.png','http://www.thepaper.cn','9月24日（星期二），庆祝中华人民共和国成立70周年活动新闻中心将在梅地亚中心二层新闻发布厅举办第一场新闻发布会和第一场专题集体采访活动。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500595,'国庆70周年活动新闻中心24日将举行发布会和集体采访','https://image.thepaper.cn/image/31/563/447.png','http://www.thepaper.cn','9月24日（星期二），庆祝中华人民共和国成立70周年活动新闻中心将在梅地亚中心二层新闻发布厅举办第一场新闻发布会和第一场专题集体采访活动。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4498861" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4498861" class="tiptitleImg" data-id="4498861" target="_blank"> <img src="//image2.thepaper.cn/image/31/547/327.jpg" alt="大外交｜所罗门群岛与中国建交，外交人士：这种趋势还会继续">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4498861" id="clk4498861" target="_blank">大外交｜所罗门群岛与中国建交，外交人士：这种趋势还会继续</a>
+        </h2>
+        <p>
+                所罗门群岛、基里巴斯在90个小时之内连续“转向”，有外交人士21日告诉澎湃新闻，“有一点可以确认，这个势头还会继续往下进行下去”。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25429" target="_blank">澎湃国际</a>
+                <span>1小时前</span>
+            <span class="trbszan">21</span>
+            <div class="trbstxt">推荐</div>
+	</div>
+        <div class="news_share" id="share4498861" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4498861)" ref="nofollow"></a></div><a href="javascript:showToSina(4498861,'大外交｜所罗门群岛与中国建交，外交人士：这种趋势还会继续','https://image2.thepaper.cn/image/31/547/327.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4498861,'大外交｜所罗门群岛与中国建交，外交人士：这种趋势还会继续','https://image2.thepaper.cn/image/31/547/327.jpg','http://www.thepaper.cn','所罗门群岛、基里巴斯在90个小时之内连续“转向”，有外交人士21日告诉澎湃新闻，“有一点可以确认，这个势头还会继续往下进行下去”。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4498861,'大外交｜所罗门群岛与中国建交，外交人士：这种趋势还会继续','https://image2.thepaper.cn/image/31/547/327.jpg','http://www.thepaper.cn','所罗门群岛、基里巴斯在90个小时之内连续“转向”，有外交人士21日告诉澎湃新闻，“有一点可以确认，这个势头还会继续往下进行下去”。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4499870" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4499870" class="tiptitleImg" data-id="4499870" target="_blank"> <img src="//image2.thepaper.cn/image/31/562/672.jpg" alt="可爱的中国，奋进的上海｜他们用自己的经历讲述上海故事">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4499870" id="clk4499870" target="_blank">可爱的中国，奋进的上海｜他们用自己的经历讲述上海故事</a>
+        </h2>
+        <p>
+                9月23日下午，《“致敬！劳动者”庆祝中华人民共和国成立70周年主题图片展》开幕。从普通劳动者的视角呈现上海自新中国成立70年以来，取得的重大成就。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25422" target="_blank">浦江头条</a>
+                <span>1小时前</span>
+            <div class="trbstxt">推荐</div>
+	</div>
+        <div class="news_share" id="share4499870" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4499870)" ref="nofollow"></a></div><a href="javascript:showToSina(4499870,'可爱的中国，奋进的上海｜他们用自己的经历讲述上海故事','https://image2.thepaper.cn/image/31/562/672.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4499870,'可爱的中国，奋进的上海｜他们用自己的经历讲述上海故事','https://image2.thepaper.cn/image/31/562/672.jpg','http://www.thepaper.cn','9月23日下午，《“致敬！劳动者”庆祝中华人民共和国成立70周年主题图片展》开幕。从普通劳动者的视角呈现上海自新中国成立70年以来，取得的重大成就。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4499870,'可爱的中国，奋进的上海｜他们用自己的经历讲述上海故事','https://image2.thepaper.cn/image/31/562/672.jpg','http://www.thepaper.cn','9月23日下午，《“致敬！劳动者”庆祝中华人民共和国成立70周年主题图片展》开幕。从普通劳动者的视角呈现上海自新中国成立70年以来，取得的重大成就。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500579" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500579" class="tiptitleImg" data-id="4500579" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/437.jpg" alt="切球、削球、扣球？新一代乒乓球机器人卷土重来，进博会上见">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500579" id="clk4500579" target="_blank">切球、削球、扣球？新一代乒乓球机器人卷土重来，进博会上见</a>
+        </h2>
+        <p>
+                FORPHEUS的“神经中枢”——运动控制器，会在小于1/1000秒的时间里会发出指令，告诉机械臂如何巧妙击球。</p>
+        <div class="pdtt_trbs">
+            <a href="list_37978" target="_blank">进博会在线</a>
+                <span>13分钟前</span>
+            </div>
+        <div class="news_share" id="share4500579" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500579)" ref="nofollow"></a></div><a href="javascript:showToSina(4500579,'切球、削球、扣球？新一代乒乓球机器人卷土重来，进博会上见','https://image2.thepaper.cn/image/31/563/437.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500579,'切球、削球、扣球？新一代乒乓球机器人卷土重来，进博会上见','https://image2.thepaper.cn/image/31/563/437.jpg','http://www.thepaper.cn','FORPHEUS的“神经中枢”——运动控制器，会在小于1/1000秒的时间里会发出指令，告诉机械臂如何巧妙击球。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500579,'切球、削球、扣球？新一代乒乓球机器人卷土重来，进博会上见','https://image2.thepaper.cn/image/31/563/437.jpg','http://www.thepaper.cn','FORPHEUS的“神经中枢”——运动控制器，会在小于1/1000秒的时间里会发出指令，告诉机械臂如何巧妙击球。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500602" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500602" class="tiptitleImg" data-id="4500602" target="_blank"> <img src="//image1.thepaper.cn/image/31/563/478.png" alt="庆祝中华人民共和国成立70周年大型成就展在京开幕">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500602" id="clk4500602" target="_blank">庆祝中华人民共和国成立70周年大型成就展在京开幕</a>
+        </h2>
+        <p>
+                9月23日，“伟大历程　辉煌成就——庆祝中华人民共和国成立70周年大型成就展”开幕式在北京展览馆举行。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25462" target="_blank">中国政库</a>
+                <span>14分钟前</span>
+            </div>
+        <div class="news_share" id="share4500602" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500602)" ref="nofollow"></a></div><a href="javascript:showToSina(4500602,'庆祝中华人民共和国成立70周年大型成就展在京开幕','https://image1.thepaper.cn/image/31/563/478.png','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500602,'庆祝中华人民共和国成立70周年大型成就展在京开幕','https://image1.thepaper.cn/image/31/563/478.png','http://www.thepaper.cn','9月23日，“伟大历程　辉煌成就——庆祝中华人民共和国成立70周年大型成就展”开幕式在北京展览馆举行。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500602,'庆祝中华人民共和国成立70周年大型成就展在京开幕','https://image1.thepaper.cn/image/31/563/478.png','http://www.thepaper.cn','9月23日，“伟大历程　辉煌成就——庆祝中华人民共和国成立70周年大型成就展”开幕式在北京展览馆举行。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4498836" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4498836" class="tiptitleImg" data-id="4498836" target="_blank"> <img src="//image.thepaper.cn/image/31/547/685.jpg" alt="乐山市公安局：近3年招录辅警过半离职，将稳步提高辅警待遇">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4498836" id="clk4498836" target="_blank">乐山市公安局：近3年招录辅警过半离职，将稳步提高辅警待遇</a>
+        </h2>
+        <p>
+                答复指出，民建乐山市委提出的“关于解决协警待遇和安置问题的建议”的提案，由乐山市公安局主办，市人社局、市财政局协办，已按规定进行了认真办理。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25462" target="_blank">中国政库</a>
+                <span>15分钟前</span>
+            </div>
+        <div class="news_share" id="share4498836" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4498836)" ref="nofollow"></a></div><a href="javascript:showToSina(4498836,'乐山市公安局：近3年招录辅警过半离职，将稳步提高辅警待遇','https://image.thepaper.cn/image/31/547/685.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4498836,'乐山市公安局：近3年招录辅警过半离职，将稳步提高辅警待遇','https://image.thepaper.cn/image/31/547/685.jpg','http://www.thepaper.cn','答复指出，民建乐山市委提出的“关于解决协警待遇和安置问题的建议”的提案，由乐山市公安局主办，市人社局、市财政局协办，已按规定进行了认真办理。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4498836,'乐山市公安局：近3年招录辅警过半离职，将稳步提高辅警待遇','https://image.thepaper.cn/image/31/547/685.jpg','http://www.thepaper.cn','答复指出，民建乐山市委提出的“关于解决协警待遇和安置问题的建议”的提案，由乐山市公安局主办，市人社局、市财政局协办，已按规定进行了认真办理。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500608" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500608" class="tiptitleImg" data-id="4500608" target="_blank"> <img src="//image.thepaper.cn/image/31/563/486.jpg" alt="中国移动5G商用开约，用户可查身边5G覆盖情况">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500608" id="clk4500608" target="_blank">中国移动5G商用开约，用户可查身边5G覆盖情况</a>
+        </h2>
+        <p>
+                近日，记者从中国移动获悉，自9月20日起，中国移动5G商用预约活动全面上线。可通过短信、“中国移动”APP、扫二维码三种方式参与预约。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25434" target="_blank">10%公司</a>
+                <span>15分钟前</span>
+            </div>
+        <div class="news_share" id="share4500608" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500608)" ref="nofollow"></a></div><a href="javascript:showToSina(4500608,'中国移动5G商用开约，用户可查身边5G覆盖情况','https://image.thepaper.cn/image/31/563/486.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500608,'中国移动5G商用开约，用户可查身边5G覆盖情况','https://image.thepaper.cn/image/31/563/486.jpg','http://www.thepaper.cn','近日，记者从中国移动获悉，自9月20日起，中国移动5G商用预约活动全面上线。可通过短信、“中国移动”APP、扫二维码三种方式参与预约。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500608,'中国移动5G商用开约，用户可查身边5G覆盖情况','https://image.thepaper.cn/image/31/563/486.jpg','http://www.thepaper.cn','近日，记者从中国移动获悉，自9月20日起，中国移动5G商用预约活动全面上线。可通过短信、“中国移动”APP、扫二维码三种方式参与预约。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500660" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500660" class="tiptitleImg" data-id="4500660" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/755.jpg" alt="九寨沟9月27日恢复开园：每天限量5000人，不接待散客">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500660" id="clk4500660" target="_blank">九寨沟9月27日恢复开园：每天限量5000人，不接待散客</a>
+        </h2>
+        <p>
+                九寨沟管理局发布公告称，在恢复重建期间，景区拟于2019年9月27日（世界旅游日）起部分景观恢复对外开放(试运行)。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25433" target="_blank">地产界</a>
+                <span>16分钟前</span>
+            </div>
+        <div class="news_share" id="share4500660" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500660)" ref="nofollow"></a></div><a href="javascript:showToSina(4500660,'九寨沟9月27日恢复开园：每天限量5000人，不接待散客','https://image2.thepaper.cn/image/31/563/755.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500660,'九寨沟9月27日恢复开园：每天限量5000人，不接待散客','https://image2.thepaper.cn/image/31/563/755.jpg','http://www.thepaper.cn','九寨沟管理局发布公告称，在恢复重建期间，景区拟于2019年9月27日（世界旅游日）起部分景观恢复对外开放(试运行)。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500660,'九寨沟9月27日恢复开园：每天限量5000人，不接待散客','https://image2.thepaper.cn/image/31/563/755.jpg','http://www.thepaper.cn','九寨沟管理局发布公告称，在恢复重建期间，景区拟于2019年9月27日（世界旅游日）起部分景观恢复对外开放(试运行)。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4498156" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4498156" class="tiptitleImg" data-id="4498156" target="_blank"> <img src="//image.thepaper.cn/image/31/563/720.jpg" alt="现场｜超级朱婷引发日本记者惊叹，中国女排总在细节闪光">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4498156" id="clk4498156" target="_blank">现场｜超级朱婷引发日本记者惊叹，中国女排总在细节闪光</a>
+        </h2>
+        <p>
+                能够取得完胜，队长朱婷自然功不可没。本场比赛她砍下23分，再度成为了球队获胜的功臣，出色的发挥引来了对手甚至是现场日本记者的惊叹。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25599" target="_blank">运动家</a>
+                <span>23分钟前</span>
+            <span class="trbszan">12</span>
+            </div>
+        <div class="news_share" id="share4498156" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4498156)" ref="nofollow"></a></div><a href="javascript:showToSina(4498156,'现场｜超级朱婷引发日本记者惊叹，中国女排总在细节闪光','https://image.thepaper.cn/image/31/563/720.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4498156,'现场｜超级朱婷引发日本记者惊叹，中国女排总在细节闪光','https://image.thepaper.cn/image/31/563/720.jpg','http://www.thepaper.cn','能够取得完胜，队长朱婷自然功不可没。本场比赛她砍下23分，再度成为了球队获胜的功臣，出色的发挥引来了对手甚至是现场日本记者的惊叹。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4498156,'现场｜超级朱婷引发日本记者惊叹，中国女排总在细节闪光','https://image.thepaper.cn/image/31/563/720.jpg','http://www.thepaper.cn','能够取得完胜，队长朱婷自然功不可没。本场比赛她砍下23分，再度成为了球队获胜的功臣，出色的发挥引来了对手甚至是现场日本记者的惊叹。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500484" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500484" class="tiptitleImg" data-id="4500484" target="_blank"> <img src="//image1.thepaper.cn/image/31/563/394.jpg" alt="30年教龄驾校教练酒后驾车被查：行拘15日，驾照被吊销">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500484" id="clk4500484" target="_blank">30年教龄驾校教练酒后驾车被查：行拘15日，驾照被吊销</a>
+        </h2>
+        <p>
+                陈某当教练已有30年，当晚他在和同学聚会时喝了酒，但自认为喝的不多，又对技术很自信，抱着侥幸心理开教练车回家。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25491" target="_blank">长三角政商</a>
+                <span>25分钟前</span>
+            </div>
+        <div class="news_share" id="share4500484" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500484)" ref="nofollow"></a></div><a href="javascript:showToSina(4500484,'30年教龄驾校教练酒后驾车被查：行拘15日，驾照被吊销','https://image1.thepaper.cn/image/31/563/394.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500484,'30年教龄驾校教练酒后驾车被查：行拘15日，驾照被吊销','https://image1.thepaper.cn/image/31/563/394.jpg','http://www.thepaper.cn','陈某当教练已有30年，当晚他在和同学聚会时喝了酒，但自认为喝的不多，又对技术很自信，抱着侥幸心理开教练车回家。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500484,'30年教龄驾校教练酒后驾车被查：行拘15日，驾照被吊销','https://image1.thepaper.cn/image/31/563/394.jpg','http://www.thepaper.cn','陈某当教练已有30年，当晚他在和同学聚会时喝了酒，但自认为喝的不多，又对技术很自信，抱着侥幸心理开教练车回家。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4499316" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4499316" class="tiptitleImg" data-id="4499316" target="_blank"> <img src="//image2.thepaper.cn/image/31/548/524.jpg" alt="海通证券姜超：未来中国A股综合年化回报率会达到10%左右">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4499316" id="clk4499316" target="_blank">海通证券姜超：未来中国A股综合年化回报率会达到10%左右</a>
+        </h2>
+        <p>
+                海通证券研究所副所长、首席宏观债券分析师姜超称，“如果经济下滑，股市就会下跌”是一种错误的偏见，虽然2019年中国经济增速创下信息，但中国股市却逆势大幅上涨。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25437" target="_blank">牛市点线面</a>
+                <span>33分钟前</span>
+            </div>
+        <div class="news_share" id="share4499316" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4499316)" ref="nofollow"></a></div><a href="javascript:showToSina(4499316,'海通证券姜超：未来中国A股综合年化回报率会达到10%左右','https://image2.thepaper.cn/image/31/548/524.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4499316,'海通证券姜超：未来中国A股综合年化回报率会达到10%左右','https://image2.thepaper.cn/image/31/548/524.jpg','http://www.thepaper.cn','海通证券研究所副所长、首席宏观债券分析师姜超称，“如果经济下滑，股市就会下跌”是一种错误的偏见，虽然2019年中国经济增速创下信息，但中国股市却逆势大幅上涨。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4499316,'海通证券姜超：未来中国A股综合年化回报率会达到10%左右','https://image2.thepaper.cn/image/31/548/524.jpg','http://www.thepaper.cn','海通证券研究所副所长、首席宏观债券分析师姜超称，“如果经济下滑，股市就会下跌”是一种错误的偏见，虽然2019年中国经济增速创下信息，但中国股市却逆势大幅上涨。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500619" conttype="91">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500619" class="tiptitleImg" data-id="4500619" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/533.jpg" alt="海南“壮士断腕”破除房地产依赖：前八月房地产销售额减半">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500619" id="clk4500619" target="_blank">海南“壮士断腕”破除房地产依赖：前八月房地产销售额减半</a>
+        </h2>
+        <p>
+                今年以来，海南主官多次表示，要以壮士断腕的决心“去房产化”。此次官媒上升到政治高度，为接下来的楼市定调，很显然海南真的变天了。</p>
+        <div class="pdtt_trbs">
+            <a href="gov_57879" target="_blank" class="govname">中国城市中心</a>
+                        <span>37分钟前</span>
+            </div>
+        <div class="news_share" id="share4500619" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500619)" ref="nofollow"></a></div><a href="javascript:showToSina(4500619,'海南“壮士断腕”破除房地产依赖：前八月房地产销售额减半','https://image2.thepaper.cn/image/31/563/533.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500619,'海南“壮士断腕”破除房地产依赖：前八月房地产销售额减半','https://image2.thepaper.cn/image/31/563/533.jpg','http://www.thepaper.cn','今年以来，海南主官多次表示，要以壮士断腕的决心“去房产化”。此次官媒上升到政治高度，为接下来的楼市定调，很显然海南真的变天了。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500619,'海南“壮士断腕”破除房地产依赖：前八月房地产销售额减半','https://image2.thepaper.cn/image/31/563/533.jpg','http://www.thepaper.cn','今年以来，海南主官多次表示，要以壮士断腕的决心“去房产化”。此次官媒上升到政治高度，为接下来的楼市定调，很显然海南真的变天了。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500095" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500095" class="tiptitleImg" data-id="4500095" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/146.png" alt="移动互联时代，我们这样打赢个人信息保卫战">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500095" id="clk4500095" target="_blank">移动互联时代，我们这样打赢个人信息保卫战</a>
+        </h2>
+        <p>
+                哪些不良使用习惯会导致手机防护尽失、网络用户个人信息被“劫”？加固网络个人信息“城防”有何关键词？哪些隐患仍在威胁网络个人信息安全？</p>
+        <div class="pdtt_trbs">
+            <a href="list_25434" target="_blank">10%公司</a>
+                <span>40分钟前</span>
+            </div>
+        <div class="news_share" id="share4500095" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500095)" ref="nofollow"></a></div><a href="javascript:showToSina(4500095,'移动互联时代，我们这样打赢个人信息保卫战','https://image2.thepaper.cn/image/31/563/146.png','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500095,'移动互联时代，我们这样打赢个人信息保卫战','https://image2.thepaper.cn/image/31/563/146.png','http://www.thepaper.cn','哪些不良使用习惯会导致手机防护尽失、网络用户个人信息被“劫”？加固网络个人信息“城防”有何关键词？哪些隐患仍在威胁网络个人信息安全？');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500095,'移动互联时代，我们这样打赢个人信息保卫战','https://image2.thepaper.cn/image/31/563/146.png','http://www.thepaper.cn','哪些不良使用习惯会导致手机防护尽失、网络用户个人信息被“劫”？加固网络个人信息“城防”有何关键词？哪些隐患仍在威胁网络个人信息安全？');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500634" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500634" class="tiptitleImg" data-id="4500634" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/515.jpg" alt="浦东70幢高楼闪亮天际线！百架无人机拼出中国、70字样">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500634" id="clk4500634" target="_blank">浦东70幢高楼闪亮天际线！百架无人机拼出中国、70字样</a>
+        </h2>
+        <p>
+                百架无人机群以阵列形式变换出“中国”“70”等图案，向祖国发出来自空中祝福。陆家嘴及周边楼宇，或打出“祖国我爱你”，或投影出国旗画面等，亮出了一条红色天际线。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25422" target="_blank">浦江头条</a>
+                <span>40分钟前</span>
+            </div>
+        <div class="news_share" id="share4500634" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500634)" ref="nofollow"></a></div><a href="javascript:showToSina(4500634,'浦东70幢高楼闪亮天际线！百架无人机拼出中国、70字样','https://image2.thepaper.cn/image/31/563/515.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500634,'浦东70幢高楼闪亮天际线！百架无人机拼出中国、70字样','https://image2.thepaper.cn/image/31/563/515.jpg','http://www.thepaper.cn','百架无人机群以阵列形式变换出“中国”“70”等图案，向祖国发出来自空中祝福。陆家嘴及周边楼宇，或打出“祖国我爱你”，或投影出国旗画面等，亮出了一条红色天际线。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500634,'浦东70幢高楼闪亮天际线！百架无人机拼出中国、70字样','https://image2.thepaper.cn/image/31/563/515.jpg','http://www.thepaper.cn','百架无人机群以阵列形式变换出“中国”“70”等图案，向祖国发出来自空中祝福。陆家嘴及周边楼宇，或打出“祖国我爱你”，或投影出国旗画面等，亮出了一条红色天际线。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500581" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500581" class="tiptitleImg" data-id="4500581" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/413.jpg" alt="探索AI+5G：云从科技携手中国电信每月服务500万人">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500581" id="clk4500581" target="_blank">探索AI+5G：云从科技携手中国电信每月服务500万人</a>
+        </h2>
+        <p>
+                据云从科技介绍，云从的人工智能产品遍布电信全国营业厅，每月有超过5百万用户进行核验，全国超7亿电信用户都有机会实际体验到人工智能的实际应用。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25438" target="_blank">财经上下游</a>
+                <span>47分钟前</span>
+            </div>
+        <div class="news_share" id="share4500581" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500581)" ref="nofollow"></a></div><a href="javascript:showToSina(4500581,'探索AI+5G：云从科技携手中国电信每月服务500万人','https://image2.thepaper.cn/image/31/563/413.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500581,'探索AI+5G：云从科技携手中国电信每月服务500万人','https://image2.thepaper.cn/image/31/563/413.jpg','http://www.thepaper.cn','据云从科技介绍，云从的人工智能产品遍布电信全国营业厅，每月有超过5百万用户进行核验，全国超7亿电信用户都有机会实际体验到人工智能的实际应用。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500581,'探索AI+5G：云从科技携手中国电信每月服务500万人','https://image2.thepaper.cn/image/31/563/413.jpg','http://www.thepaper.cn','据云从科技介绍，云从的人工智能产品遍布电信全国营业厅，每月有超过5百万用户进行核验，全国超7亿电信用户都有机会实际体验到人工智能的实际应用。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500462" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500462" class="tiptitleImg" data-id="4500462" target="_blank"> <img src="//image.thepaper.cn/image/31/563/210.jpg" alt="天津检察机关依法对张鹭涉嫌危险驾驶罪一案提起公诉">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500462" id="clk4500462" target="_blank">天津检察机关依法对张鹭涉嫌危险驾驶罪一案提起公诉</a>
+        </h2>
+        <p>
+                9月18日22时许，被告人张鹭酒后驾驶牌照号为津MPL999的路虎牌小型越野客车，沿本市河东区六纬路由北向南行驶至东兴路时，被交通警察拦截检查。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25424" target="_blank">一号专案</a>
+                <span>53分钟前</span>
+            <span class="trbszan">304</span>
+            </div>
+        <div class="news_share" id="share4500462" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500462)" ref="nofollow"></a></div><a href="javascript:showToSina(4500462,'天津检察机关依法对张鹭涉嫌危险驾驶罪一案提起公诉','https://image.thepaper.cn/image/31/563/210.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500462,'天津检察机关依法对张鹭涉嫌危险驾驶罪一案提起公诉','https://image.thepaper.cn/image/31/563/210.jpg','http://www.thepaper.cn','9月18日22时许，被告人张鹭酒后驾驶牌照号为津MPL999的路虎牌小型越野客车，沿本市河东区六纬路由北向南行驶至东兴路时，被交通警察拦截检查。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500462,'天津检察机关依法对张鹭涉嫌危险驾驶罪一案提起公诉','https://image.thepaper.cn/image/31/563/210.jpg','http://www.thepaper.cn','9月18日22时许，被告人张鹭酒后驾驶牌照号为津MPL999的路虎牌小型越野客车，沿本市河东区六纬路由北向南行驶至东兴路时，被交通警察拦截检查。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500082" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500082" class="tiptitleImg" data-id="4500082" target="_blank"> <img src="//image.thepaper.cn/image/31/562/598.jpg" alt="约翰逊：别指望在纽约取得“脱欧”突破，但协议已有进展">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500082" id="clk4500082" target="_blank">约翰逊：别指望在纽约取得“脱欧”突破，但协议已有进展</a>
+        </h2>
+        <p>
+                英国首相约翰逊23日表示，不要期待他和欧盟成员国领导人在美国纽约参加联合国大会期间取得“脱欧”突破，但是英国和欧盟已经在“脱欧”协议上取得了重大的进展。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25429" target="_blank">澎湃国际</a>
+                <span>54分钟前</span>
+            </div>
+        <div class="news_share" id="share4500082" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500082)" ref="nofollow"></a></div><a href="javascript:showToSina(4500082,'约翰逊：别指望在纽约取得“脱欧”突破，但协议已有进展','https://image.thepaper.cn/image/31/562/598.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500082,'约翰逊：别指望在纽约取得“脱欧”突破，但协议已有进展','https://image.thepaper.cn/image/31/562/598.jpg','http://www.thepaper.cn','英国首相约翰逊23日表示，不要期待他和欧盟成员国领导人在美国纽约参加联合国大会期间取得“脱欧”突破，但是英国和欧盟已经在“脱欧”协议上取得了重大的进展。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500082,'约翰逊：别指望在纽约取得“脱欧”突破，但协议已有进展','https://image.thepaper.cn/image/31/562/598.jpg','http://www.thepaper.cn','英国首相约翰逊23日表示，不要期待他和欧盟成员国领导人在美国纽约参加联合国大会期间取得“脱欧”突破，但是英国和欧盟已经在“脱欧”协议上取得了重大的进展。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4498607" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4498607" class="tiptitleImg" data-id="4498607" target="_blank"> <img src="//image.thepaper.cn/image/31/541/190.jpg" alt="A股低开低走，尾盘跌幅收窄：三大股指缩量收跌近1%">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4498607" id="clk4498607" target="_blank">A股低开低走，尾盘跌幅收窄：三大股指缩量收跌近1%</a>
+        </h2>
+        <p>
+                国泰君安认为，沪指从2733点上涨以来，还未出现过明显的调整，自9月16日触碰到短期高点3042.93点以后，调整已近百点。近期市场处于上涨途中的调整阶段。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25437" target="_blank">牛市点线面</a>
+                <span>56分钟前</span>
+            </div>
+        <div class="news_share" id="share4498607" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4498607)" ref="nofollow"></a></div><a href="javascript:showToSina(4498607,'A股低开低走，尾盘跌幅收窄：三大股指缩量收跌近1%','https://image.thepaper.cn/image/31/541/190.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4498607,'A股低开低走，尾盘跌幅收窄：三大股指缩量收跌近1%','https://image.thepaper.cn/image/31/541/190.jpg','http://www.thepaper.cn','国泰君安认为，沪指从2733点上涨以来，还未出现过明显的调整，自9月16日触碰到短期高点3042.93点以后，调整已近百点。近期市场处于上涨途中的调整阶段。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4498607,'A股低开低走，尾盘跌幅收窄：三大股指缩量收跌近1%','https://image.thepaper.cn/image/31/541/190.jpg','http://www.thepaper.cn','国泰君安认为，沪指从2733点上涨以来，还未出现过明显的调整，自9月16日触碰到短期高点3042.93点以后，调整已近百点。近期市场处于上涨途中的调整阶段。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500582" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500582" class="tiptitleImg" data-id="4500582" target="_blank"> <img src="//image1.thepaper.cn/image/31/563/358.jpg" alt="上海市政府常务会议决定：学校体育场馆进一步向社会开放">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500582" id="clk4500582" target="_blank">上海市政府常务会议决定：学校体育场馆进一步向社会开放</a>
+        </h2>
+        <p>
+                上海市委副书记、市长应勇今天（23日）主持召开市政府常务会议，研究制订本市长江经济带发展负面清单指南实施细则，建立健全生态环境硬约束机制等。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25422" target="_blank">浦江头条</a>
+                <span>59分钟前</span>
+            </div>
+        <div class="news_share" id="share4500582" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500582)" ref="nofollow"></a></div><a href="javascript:showToSina(4500582,'上海市政府常务会议决定：学校体育场馆进一步向社会开放','https://image1.thepaper.cn/image/31/563/358.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500582,'上海市政府常务会议决定：学校体育场馆进一步向社会开放','https://image1.thepaper.cn/image/31/563/358.jpg','http://www.thepaper.cn','上海市委副书记、市长应勇今天（23日）主持召开市政府常务会议，研究制订本市长江经济带发展负面清单指南实施细则，建立健全生态环境硬约束机制等。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500582,'上海市政府常务会议决定：学校体育场馆进一步向社会开放','https://image1.thepaper.cn/image/31/563/358.jpg','http://www.thepaper.cn','上海市委副书记、市长应勇今天（23日）主持召开市政府常务会议，研究制订本市长江经济带发展负面清单指南实施细则，建立健全生态环境硬约束机制等。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500413" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500413" class="tiptitleImg" data-id="4500413" target="_blank"> <img src="//image2.thepaper.cn/image/31/562/705.jpg" alt="华东交大首位90后教授胡剑亮相该校首届国际青年学者论坛">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500413" id="clk4500413" target="_blank">华东交大首位90后教授胡剑亮相该校首届国际青年学者论坛</a>
+        </h2>
+        <p>
+                胡剑曾以第一作者身份在《Science》发表高水平文章，由于科研业绩突出，2017年7月来校后直接享受教授的绩效工资待遇，2018年又顺利成为省聘教授。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25423" target="_blank">人事风向</a>
+                <span>1小时前</span>
+            </div>
+        <div class="news_share" id="share4500413" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500413)" ref="nofollow"></a></div><a href="javascript:showToSina(4500413,'华东交大首位90后教授胡剑亮相该校首届国际青年学者论坛','https://image2.thepaper.cn/image/31/562/705.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500413,'华东交大首位90后教授胡剑亮相该校首届国际青年学者论坛','https://image2.thepaper.cn/image/31/562/705.jpg','http://www.thepaper.cn','胡剑曾以第一作者身份在《Science》发表高水平文章，由于科研业绩突出，2017年7月来校后直接享受教授的绩效工资待遇，2018年又顺利成为省聘教授。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500413,'华东交大首位90后教授胡剑亮相该校首届国际青年学者论坛','https://image2.thepaper.cn/image/31/562/705.jpg','http://www.thepaper.cn','胡剑曾以第一作者身份在《Science》发表高水平文章，由于科研业绩突出，2017年7月来校后直接享受教授的绩效工资待遇，2018年又顺利成为省聘教授。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500508" conttype="91">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500508" class="tiptitleImg" data-id="4500508" target="_blank"> <img src="//image1.thepaper.cn/image/31/563/403.jpg" alt="图集丨九寨沟景区9月27日开园，双龙海瀑布形成新景观">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500508" id="clk4500508" target="_blank">图集丨九寨沟景区9月27日开园，双龙海瀑布形成新景观</a>
+        </h2>
+        <p>
+                九寨沟景区具体开放区域、开放对象和人流限量，以后续发布的公告为准。</p>
+        <div class="pdtt_trbs">
+            <a href="gov_34645" target="_blank" class="govname">内江头条</a>
+                        <span>1小时前</span>
+            </div>
+        <div class="news_share" id="share4500508" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500508)" ref="nofollow"></a></div><a href="javascript:showToSina(4500508,'图集丨九寨沟景区9月27日开园，双龙海瀑布形成新景观','https://image1.thepaper.cn/image/31/563/403.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500508,'图集丨九寨沟景区9月27日开园，双龙海瀑布形成新景观','https://image1.thepaper.cn/image/31/563/403.jpg','http://www.thepaper.cn','九寨沟景区具体开放区域、开放对象和人流限量，以后续发布的公告为准。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500508,'图集丨九寨沟景区9月27日开园，双龙海瀑布形成新景观','https://image1.thepaper.cn/image/31/563/403.jpg','http://www.thepaper.cn','九寨沟景区具体开放区域、开放对象和人流限量，以后续发布的公告为准。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="cont4500459" conttype="0">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500459" class="tiptitleImg" data-id="4500459" target="_blank"> <img src="//image1.thepaper.cn/image/31/562/653.jpg" alt="8旬老太60万从工行买理财，逾期才发现买的是车辆回购协议">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500459" id="clk4500459" target="_blank">8旬老太60万从工行买理财，逾期才发现买的是车辆回购协议</a>
+        </h2>
+        <p>
+                目前，上海银保监局已受理蒋祝英举报的工行周家嘴支行理财经理倪惠莹销售非银行理财产品等事项，将对该事项进行核查处置。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25435" target="_blank">金改实验室</a>
+                <span>1小时前</span>
+            <span class="trbszan">37</span>
+            </div>
+        <div class="news_share" id="share4500459" style="display: none;"><span>分享到</span><div><a class="weixin_share" onclick="weixinShare(4500459)" ref="nofollow"></a></div><a href="javascript:showToSina(4500459,'8旬老太60万从工行买理财，逾期才发现买的是车辆回购协议','https://image1.thepaper.cn/image/31/562/653.jpg','http://www.thepaper.cn');" class="share_sina" ref="nofollow"></a><a href="javascript:showToZone(4500459,'8旬老太60万从工行买理财，逾期才发现买的是车辆回购协议','https://image1.thepaper.cn/image/31/562/653.jpg','http://www.thepaper.cn','目前，上海银保监局已受理蒋祝英举报的工行周家嘴支行理财经理倪惠莹销售非银行理财产品等事项，将对该事项进行核查处置。');" class="share_zone" ref="nofollow"></a><a href="javascript:showTodouban(4500459,'8旬老太60万从工行买理财，逾期才发现买的是车辆回购协议','https://image1.thepaper.cn/image/31/562/653.jpg','http://www.thepaper.cn','目前，上海银保监局已受理蒋祝英举报的工行周家嘴支行理财经理倪惠莹销售非银行理财产品等事项，将对该事项进行核查处置。');" class="share_rr" ref="nofollow"></a></div></div>
+    <div class="news_li" id="last1" lasttime="1569234543933" pageindex="1" style="display:none;"></div>
+        </div>
+    <script type="text/javascript">
+        var g_pageidx = 1;
+        $(document).ready(function(){
+            
+            function initPage(){
+                var pageHeight = $(".main_lt").height();
+                $(".main_rt").css({minHeight: pageHeight});
+                shareNews('http://www.thepaper.cn');
+            }
+            
+            var adInContent = new AdXmlDeal({
+                url:"//adpai.thepaper.cn/s?",
+                type:1,
+                success:function(){
+                    initPage();
+                },
+                error:function(){
+                    initPage();
+                }
+            })
+            adInContent.init();
+            
+            if($("#morenewsbotton").length > 0){
+                $("#addButton").empty();
+                $("#addButton").append('<a id="next" href="load_chosen.jsp?"></a>');
+            }
+
+            $('#listContent').infinitescroll({
+                navSelector   : "#next:last",
+                nextSelector  : "a#next:last",
+                itemSelector  : ".news_li",
+                debug   : true,
+                dataType    : 'html',
+                maxPage : 30,
+                loading: {
+                    msgText:'',
+                    //finishedMsg: '',
+                    img: "../img/loading.gif",
+                    selector: '#addButton'
+                },
+                finished: function(){
+                    if(g_pageidx >= 3){
+                        $("#next").remove();
+                        $("#infscr-loading").hide();
+                        $(window).unbind('.infscr');
+                    }
+                },
+                pathParse: function(path,pageidx){
+                    return function(pageidx){
+                        var lastTime = $('#last' + g_pageidx).attr("lastTime");
+                        g_pageidx = parseInt($('#last' + g_pageidx).attr("pageIndex"));
+                        g_pageidx = g_pageidx + 1;
+                        return "load_chosen.jsp?nodeids=25949&topCids=4499627,4495122,4500595,4498861,4499870,&pageidx=" + g_pageidx + "&lastTime=" + lastTime;
+                    }
+                }
+            },function(newElements) {
+                if(g_pageidx >= 30){
+                    $("#addButton").css('display','block');
+                    $("#addButton").empty();
+                    $("#addButton").append('<a style="color: #01a5ec;" href="javascript:void(0);" id="morenewsbotton" onClick="morenews(this);">点击加载更多</a>');
+                }
+
+                var pageHeight = $(".main_lt").height();
+                $(".main_rt").css({minHeight: pageHeight});
+                shareNews('http://www.thepaper.cn');
+            });
+
+            
+        });
+
+
+        function morenews(obj){
+            if(obj.disabled) return ;
+            obj.disabled = true;
+            var lastTime = $('#last' + g_pageidx).attr("lastTime");
+            g_pageidx = parseInt($('#last' + g_pageidx).attr("pageIndex"));
+            g_pageidx = g_pageidx + 1;
+            $.ajax({
+                type : "post",
+                url : "load_chosen.jsp",
+                data : "nodeids=25949&topCids=4499627,4495122,4500595,4498861,4499870,&pageidx=" + g_pageidx + "&lastTime=" + lastTime,
+                timeout : 30000,
+                dataType : "html",
+                success : function(data) {
+                    data = $.trim(data);
+                    obj.disabled = false;
+                    if (data == ''){
+                        $("#addButton").empty();
+                        $("#addButton").append('<em id="loadfinished">已经加载到底部，无法提供更多数据......</em>');
+                        $("#loadfinished").fadeOut(3000);
+                    }else{
+                        $('#listContent').append(data);
+                        var pageHeight = $(".main_lt").height();
+                        $(".main_rt").css({minHeight: pageHeight});
+                        shareNews('http://www.thepaper.cn');
+                    }
+                },
+                error : function(XMLHttpRequest, textStatus, errorThrown) {
+                    obj.disabled = false;
+                    $("#addButton").empty();
+                    $("#addButton").append('<em id="loadfinished">已经加载到底部，无法提供更多数据......</em>');
+                    $("#loadfinished").fadeOut(3000);
+                }
+            });
+        }
+
+
+    </script>
+</div>
+                <div id="indexMasonry" style="display: none">
+                    <div class="newsbox" id="masonryContent" style="min-height: 3190px; position: relative; width: 313px; height: 0px;">
+            <div class="news_li" id="cont4495122" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4495122" class="tiptitleImg" data-id="4495122" target="_blank"> <img src="//image1.thepaper.cn/image/31/489/993.jpg" alt="人民日报评论员：调动一切可以调动的积极因素">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4495122" id="clk4495122" target="_blank">人民日报评论员：调动一切可以调动的积极因素</a>
+        </h2>
+        <p>
+                尽最大可能谋求共识，在更广范围赢得共识，就能得到更多支持、争取更多主动，为攻坚克难、爬坡过坎凝聚合力。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25489" target="_blank">舆论场</a>
+                <span>8小时前</span>
+            <span class="trbszan">53</span>
+            <div class="trbstxt">推荐</div>
+	</div>
+        </div>
+    <div class="news_li" id="cont4500595" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500595" class="tiptitleImg" data-id="4500595" target="_blank"> <img src="//image.thepaper.cn/image/31/563/447.png" alt="国庆70周年活动新闻中心24日将举行发布会和集体采访">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500595" id="clk4500595" target="_blank">国庆70周年活动新闻中心24日将举行发布会和集体采访</a>
+        </h2>
+        <p>
+                9月24日（星期二），庆祝中华人民共和国成立70周年活动新闻中心将在梅地亚中心二层新闻发布厅举办第一场新闻发布会和第一场专题集体采访活动。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25462" target="_blank">中国政库</a>
+                <span>1小时前</span>
+            <span class="trbszan">28</span>
+            <div class="trbstxt">推荐</div>
+	</div>
+        </div>
+    <div class="news_li" id="cont4498861" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4498861" class="tiptitleImg" data-id="4498861" target="_blank"> <img src="//image2.thepaper.cn/image/31/547/327.jpg" alt="大外交｜所罗门群岛与中国建交，外交人士：这种趋势还会继续">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4498861" id="clk4498861" target="_blank">大外交｜所罗门群岛与中国建交，外交人士：这种趋势还会继续</a>
+        </h2>
+        <p>
+                所罗门群岛、基里巴斯在90个小时之内连续“转向”，有外交人士21日告诉澎湃新闻，“有一点可以确认，这个势头还会继续往下进行下去”。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25429" target="_blank">澎湃国际</a>
+                <span>1小时前</span>
+            <span class="trbszan">21</span>
+            <div class="trbstxt">推荐</div>
+	</div>
+        </div>
+    <div class="news_li" id="cont4499870" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4499870" class="tiptitleImg" data-id="4499870" target="_blank"> <img src="//image2.thepaper.cn/image/31/562/672.jpg" alt="可爱的中国，奋进的上海｜他们用自己的经历讲述上海故事">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4499870" id="clk4499870" target="_blank">可爱的中国，奋进的上海｜他们用自己的经历讲述上海故事</a>
+        </h2>
+        <p>
+                9月23日下午，《“致敬！劳动者”庆祝中华人民共和国成立70周年主题图片展》开幕。从普通劳动者的视角呈现上海自新中国成立70年以来，取得的重大成就。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25422" target="_blank">浦江头条</a>
+                <span>1小时前</span>
+            <div class="trbstxt">推荐</div>
+	</div>
+        </div>
+    <div class="news_li" id="cont4500579" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500579" class="tiptitleImg" data-id="4500579" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/437.jpg" alt="切球、削球、扣球？新一代乒乓球机器人卷土重来，进博会上见">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500579" id="clk4500579" target="_blank">切球、削球、扣球？新一代乒乓球机器人卷土重来，进博会上见</a>
+        </h2>
+        <p>
+                FORPHEUS的“神经中枢”——运动控制器，会在小于1/1000秒的时间里会发出指令，告诉机械臂如何巧妙击球。</p>
+        <div class="pdtt_trbs">
+            <a href="list_37978" target="_blank">进博会在线</a>
+                <span>13分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500602" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500602" class="tiptitleImg" data-id="4500602" target="_blank"> <img src="//image1.thepaper.cn/image/31/563/478.png" alt="庆祝中华人民共和国成立70周年大型成就展在京开幕">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500602" id="clk4500602" target="_blank">庆祝中华人民共和国成立70周年大型成就展在京开幕</a>
+        </h2>
+        <p>
+                9月23日，“伟大历程　辉煌成就——庆祝中华人民共和国成立70周年大型成就展”开幕式在北京展览馆举行。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25462" target="_blank">中国政库</a>
+                <span>14分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4498836" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4498836" class="tiptitleImg" data-id="4498836" target="_blank"> <img src="//image.thepaper.cn/image/31/547/685.jpg" alt="乐山市公安局：近3年招录辅警过半离职，将稳步提高辅警待遇">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4498836" id="clk4498836" target="_blank">乐山市公安局：近3年招录辅警过半离职，将稳步提高辅警待遇</a>
+        </h2>
+        <p>
+                答复指出，民建乐山市委提出的“关于解决协警待遇和安置问题的建议”的提案，由乐山市公安局主办，市人社局、市财政局协办，已按规定进行了认真办理。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25462" target="_blank">中国政库</a>
+                <span>15分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500608" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500608" class="tiptitleImg" data-id="4500608" target="_blank"> <img src="//image.thepaper.cn/image/31/563/486.jpg" alt="中国移动5G商用开约，用户可查身边5G覆盖情况">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500608" id="clk4500608" target="_blank">中国移动5G商用开约，用户可查身边5G覆盖情况</a>
+        </h2>
+        <p>
+                近日，记者从中国移动获悉，自9月20日起，中国移动5G商用预约活动全面上线。可通过短信、“中国移动”APP、扫二维码三种方式参与预约。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25434" target="_blank">10%公司</a>
+                <span>15分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500660" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500660" class="tiptitleImg" data-id="4500660" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/755.jpg" alt="九寨沟9月27日恢复开园：每天限量5000人，不接待散客">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500660" id="clk4500660" target="_blank">九寨沟9月27日恢复开园：每天限量5000人，不接待散客</a>
+        </h2>
+        <p>
+                九寨沟管理局发布公告称，在恢复重建期间，景区拟于2019年9月27日（世界旅游日）起部分景观恢复对外开放(试运行)。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25433" target="_blank">地产界</a>
+                <span>16分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4498156" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4498156" class="tiptitleImg" data-id="4498156" target="_blank"> <img src="//image.thepaper.cn/image/31/563/720.jpg" alt="现场｜超级朱婷引发日本记者惊叹，中国女排总在细节闪光">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4498156" id="clk4498156" target="_blank">现场｜超级朱婷引发日本记者惊叹，中国女排总在细节闪光</a>
+        </h2>
+        <p>
+                能够取得完胜，队长朱婷自然功不可没。本场比赛她砍下23分，再度成为了球队获胜的功臣，出色的发挥引来了对手甚至是现场日本记者的惊叹。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25599" target="_blank">运动家</a>
+                <span>23分钟前</span>
+            <span class="trbszan">12</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500484" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500484" class="tiptitleImg" data-id="4500484" target="_blank"> <img src="//image1.thepaper.cn/image/31/563/394.jpg" alt="30年教龄驾校教练酒后驾车被查：行拘15日，驾照被吊销">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500484" id="clk4500484" target="_blank">30年教龄驾校教练酒后驾车被查：行拘15日，驾照被吊销</a>
+        </h2>
+        <p>
+                陈某当教练已有30年，当晚他在和同学聚会时喝了酒，但自认为喝的不多，又对技术很自信，抱着侥幸心理开教练车回家。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25491" target="_blank">长三角政商</a>
+                <span>25分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4499316" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4499316" class="tiptitleImg" data-id="4499316" target="_blank"> <img src="//image2.thepaper.cn/image/31/548/524.jpg" alt="海通证券姜超：未来中国A股综合年化回报率会达到10%左右">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4499316" id="clk4499316" target="_blank">海通证券姜超：未来中国A股综合年化回报率会达到10%左右</a>
+        </h2>
+        <p>
+                海通证券研究所副所长、首席宏观债券分析师姜超称，“如果经济下滑，股市就会下跌”是一种错误的偏见，虽然2019年中国经济增速创下信息，但中国股市却逆势大幅上涨。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25437" target="_blank">牛市点线面</a>
+                <span>33分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500619" conttype="91" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500619" class="tiptitleImg" data-id="4500619" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/533.jpg" alt="海南“壮士断腕”破除房地产依赖：前八月房地产销售额减半">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500619" id="clk4500619" target="_blank">海南“壮士断腕”破除房地产依赖：前八月房地产销售额减半</a>
+        </h2>
+        <p>
+                今年以来，海南主官多次表示，要以壮士断腕的决心“去房产化”。此次官媒上升到政治高度，为接下来的楼市定调，很显然海南真的变天了。</p>
+        <div class="pdtt_trbs">
+            <a href="gov_57879" target="_blank" class="govname">中国城市中心</a>
+                        <span>37分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500095" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500095" class="tiptitleImg" data-id="4500095" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/146.png" alt="移动互联时代，我们这样打赢个人信息保卫战">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500095" id="clk4500095" target="_blank">移动互联时代，我们这样打赢个人信息保卫战</a>
+        </h2>
+        <p>
+                哪些不良使用习惯会导致手机防护尽失、网络用户个人信息被“劫”？加固网络个人信息“城防”有何关键词？哪些隐患仍在威胁网络个人信息安全？</p>
+        <div class="pdtt_trbs">
+            <a href="list_25434" target="_blank">10%公司</a>
+                <span>40分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500634" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500634" class="tiptitleImg" data-id="4500634" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/515.jpg" alt="浦东70幢高楼闪亮天际线！百架无人机拼出中国、70字样">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500634" id="clk4500634" target="_blank">浦东70幢高楼闪亮天际线！百架无人机拼出中国、70字样</a>
+        </h2>
+        <p>
+                百架无人机群以阵列形式变换出“中国”“70”等图案，向祖国发出来自空中祝福。陆家嘴及周边楼宇，或打出“祖国我爱你”，或投影出国旗画面等，亮出了一条红色天际线。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25422" target="_blank">浦江头条</a>
+                <span>40分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500581" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500581" class="tiptitleImg" data-id="4500581" target="_blank"> <img src="//image2.thepaper.cn/image/31/563/413.jpg" alt="探索AI+5G：云从科技携手中国电信每月服务500万人">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500581" id="clk4500581" target="_blank">探索AI+5G：云从科技携手中国电信每月服务500万人</a>
+        </h2>
+        <p>
+                据云从科技介绍，云从的人工智能产品遍布电信全国营业厅，每月有超过5百万用户进行核验，全国超7亿电信用户都有机会实际体验到人工智能的实际应用。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25438" target="_blank">财经上下游</a>
+                <span>47分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500462" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500462" class="tiptitleImg" data-id="4500462" target="_blank"> <img src="//image.thepaper.cn/image/31/563/210.jpg" alt="天津检察机关依法对张鹭涉嫌危险驾驶罪一案提起公诉">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500462" id="clk4500462" target="_blank">天津检察机关依法对张鹭涉嫌危险驾驶罪一案提起公诉</a>
+        </h2>
+        <p>
+                9月18日22时许，被告人张鹭酒后驾驶牌照号为津MPL999的路虎牌小型越野客车，沿本市河东区六纬路由北向南行驶至东兴路时，被交通警察拦截检查。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25424" target="_blank">一号专案</a>
+                <span>53分钟前</span>
+            <span class="trbszan">304</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500082" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500082" class="tiptitleImg" data-id="4500082" target="_blank"> <img src="//image.thepaper.cn/image/31/562/598.jpg" alt="约翰逊：别指望在纽约取得“脱欧”突破，但协议已有进展">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500082" id="clk4500082" target="_blank">约翰逊：别指望在纽约取得“脱欧”突破，但协议已有进展</a>
+        </h2>
+        <p>
+                英国首相约翰逊23日表示，不要期待他和欧盟成员国领导人在美国纽约参加联合国大会期间取得“脱欧”突破，但是英国和欧盟已经在“脱欧”协议上取得了重大的进展。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25429" target="_blank">澎湃国际</a>
+                <span>54分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4498607" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4498607" class="tiptitleImg" data-id="4498607" target="_blank"> <img src="//image.thepaper.cn/image/31/541/190.jpg" alt="A股低开低走，尾盘跌幅收窄：三大股指缩量收跌近1%">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4498607" id="clk4498607" target="_blank">A股低开低走，尾盘跌幅收窄：三大股指缩量收跌近1%</a>
+        </h2>
+        <p>
+                国泰君安认为，沪指从2733点上涨以来，还未出现过明显的调整，自9月16日触碰到短期高点3042.93点以后，调整已近百点。近期市场处于上涨途中的调整阶段。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25437" target="_blank">牛市点线面</a>
+                <span>56分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500582" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500582" class="tiptitleImg" data-id="4500582" target="_blank"> <img src="//image1.thepaper.cn/image/31/563/358.jpg" alt="上海市政府常务会议决定：学校体育场馆进一步向社会开放">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500582" id="clk4500582" target="_blank">上海市政府常务会议决定：学校体育场馆进一步向社会开放</a>
+        </h2>
+        <p>
+                上海市委副书记、市长应勇今天（23日）主持召开市政府常务会议，研究制订本市长江经济带发展负面清单指南实施细则，建立健全生态环境硬约束机制等。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25422" target="_blank">浦江头条</a>
+                <span>59分钟前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500413" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500413" class="tiptitleImg" data-id="4500413" target="_blank"> <img src="//image2.thepaper.cn/image/31/562/705.jpg" alt="华东交大首位90后教授胡剑亮相该校首届国际青年学者论坛">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500413" id="clk4500413" target="_blank">华东交大首位90后教授胡剑亮相该校首届国际青年学者论坛</a>
+        </h2>
+        <p>
+                胡剑曾以第一作者身份在《Science》发表高水平文章，由于科研业绩突出，2017年7月来校后直接享受教授的绩效工资待遇，2018年又顺利成为省聘教授。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25423" target="_blank">人事风向</a>
+                <span>1小时前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500508" conttype="91" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500508" class="tiptitleImg" data-id="4500508" target="_blank"> <img src="//image1.thepaper.cn/image/31/563/403.jpg" alt="图集丨九寨沟景区9月27日开园，双龙海瀑布形成新景观">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500508" id="clk4500508" target="_blank">图集丨九寨沟景区9月27日开园，双龙海瀑布形成新景观</a>
+        </h2>
+        <p>
+                九寨沟景区具体开放区域、开放对象和人流限量，以后续发布的公告为准。</p>
+        <div class="pdtt_trbs">
+            <a href="gov_34645" target="_blank" class="govname">内江头条</a>
+                        <span>1小时前</span>
+            </div>
+        </div>
+    <div class="news_li" id="cont4500459" conttype="0" style="position: absolute; left: 0px; top: 0px;">
+        <div class="news_tu">
+            <a href="newsDetail_forward_4500459" class="tiptitleImg" data-id="4500459" target="_blank"> <img src="//image1.thepaper.cn/image/31/562/653.jpg" alt="8旬老太60万从工行买理财，逾期才发现买的是车辆回购协议">
+                <span class="p_time"></span>
+                    </a>
+        </div>
+        <h2>
+            <a href="newsDetail_forward_4500459" id="clk4500459" target="_blank">8旬老太60万从工行买理财，逾期才发现买的是车辆回购协议</a>
+        </h2>
+        <p>
+                目前，上海银保监局已受理蒋祝英举报的工行周家嘴支行理财经理倪惠莹销售非银行理财产品等事项，将对该事项进行核查处置。</p>
+        <div class="pdtt_trbs">
+            <a href="list_25435" target="_blank">金改实验室</a>
+                <span>1小时前</span>
+            <span class="trbszan">37</span>
+            </div>
+        </div>
+    <div class="news_li" id="last1" lasttime="1569234543933" pageindex="1" style="display: none; position: absolute; left: 0px; top: 0px;"></div>
+        </div>
+    <script type="text/javascript">
+        var masonry_pageidx = 1;
+        $(document).ready(function(){
+
+            if($("#morenewsbotton").length > 0){
+                $("#addButton").empty();
+                $("#addButton").append('<a id="next" href="load_chosen.jsp?"></a>');
+            }
+            
+            function initPage(){
+                $("#masonryContent").show();
+                $("#masonryContent").masonry({
+                    isFitWidth: true,
+                    itemSelector: '.news_li',
+                    singleMode: true,
+                });
+                var pageHeight = $(".main_lt").height();
+                $(".main_rt").css({minHeight: pageHeight});
+                shareNews('http://www.thepaper.cn');
+            }
+
+            var adInContent = new AdXmlDeal({
+                url:"//adpai.thepaper.cn/s?",
+                success:function(){
+                    initPage();
+                },
+                error:function(){
+                    initPage();
+                }
+            })
+            
+            adInContent.init();
+
+            $('#masonryContent').infinitescroll({
+                navSelector   : "#next:last",
+                nextSelector  : "a#next:last",
+                itemSelector  : ".news_li",
+                debug   : true,
+                dataType    : 'html',
+                maxPage : 30,
+                loading: {
+                    msgText:'',
+                    img: "../img/loading.gif",
+                    selector: '#addButton'
+                },
+                finished: function(){
+                    if(masonry_pageidx >= 30){
+                        $("#next").remove();
+                        $("#infscr-loading").hide();
+                        $(window).unbind('.infscr');
+                    }
+                },
+                pathParse: function(path,pageidx){
+                    return function(pageidx){
+                        var lastTime = $('#last' + masonry_pageidx).attr("lastTime");
+                        masonry_pageidx = parseInt($('#last' + masonry_pageidx).attr("pageIndex"));
+                        masonry_pageidx = masonry_pageidx + 1;
+                        return "load_chosen.jsp?nodeids=25949&topCids=4499627,4495122,4500595,4498861,4499870,&pageidx=" + masonry_pageidx + "&lastTime=" + lastTime;
+                    }
+                }
+            },function(newElements) {
+                $('#masonryContent').masonry( 'appended', newElements, true );
+
+                if(masonry_pageidx >= 30){
+                    $("#addButton").css('display','block');
+                    $("#addButton").empty();
+                    $("#addButton").append('<a style="color: #01a5ec;" href="javascript:void(0);" id="morenewsbotton" onClick="morenews(this);">点击加载更多</a>');
+                }
+
+                var pageHeight = $(".main_lt").height();
+                $(".main_rt").css({minHeight: pageHeight});
+                shareNews('http://www.thepaper.cn');
+            });
+
+        });
+
+
+        function morenews(obj){
+            if(obj.disabled) return ;
+            obj.disabled = true;
+            var lastTime = $('#last' + masonry_pageidx).attr("lastTime");
+            masonry_pageidx = parseInt($('#last' + masonry_pageidx).attr("pageIndex"));
+            masonry_pageidx = masonry_pageidx + 1;
+            $.ajax({
+                type : "post",
+                url : "load_chosen.jsp",
+                data : "nodeids=25949&topCids=4499627,4495122,4500595,4498861,4499870,&pageidx=" + masonry_pageidx + "&lastTime=" + lastTime,
+                timeout : 30000,
+                dataType : "html",
+                success : function(data) {
+                    data = $.trim(data);
+                    obj.disabled = false;
+                    if (data == ''){
+                        $("#addButton").empty();
+                        $("#addButton").append('<em id="loadfinished">已经加载到底部，无法提供更多数据......</em>');
+                        $("#loadfinished").fadeOut(3000);
+                    }else{
+                        data=data.replace(/[\r\n]/g, "");
+                        var objE = document.createElement("div");
+                        objE.innerHTML = data;
+                        var newElements = objE.childNodes;
+
+                        var elems = getItemElement(newElements);
+                        $('#masonryContent').append(elems);
+                        $('#masonryContent').masonry('appended',elems ,true);
+
+
+                        var pageHeight = $(".main_lt").height();
+                        $(".main_rt").css({minHeight: pageHeight});
+                        shareNews('http://www.thepaper.cn');
+                    }
+                },
+                error : function(XMLHttpRequest, textStatus, errorThrown) {
+                    obj.disabled = false;
+                    $("#addButton").empty();
+                    $("#addButton").append('<em id="loadfinished">已经加载到底部，无法提供更多数据......</em>');
+                    $("#loadfinished").fadeOut(3000);
+                }
+            });
+        }
+
+        
+    </script>
+</div>
+            </div>
+            <div id="addButton" class="add_more" style="display:block;">
+                <a id="next" href="load_chosen.jsp?"></a>
+            </div>
+        </div>
+        <div class="next-content">
+            <div class="pjax-loading" style="height: 305px;">
+                <div class="loading-view"></div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="main_rt" style="min-height: 3280px;">
+        <style>
+    .right_banner_slide .bs_item{margin-bottom: 20px; cursor: pointer; width: 200px; overflow: hidden;}
+    .right_banner_slide .bs_item li{width: 200px}
+    </style>
+    <div class="right_banner_slide">
+        <div class="bs_item">
+								<div class="mr_topbox">
+									<div class="mr_fr">
+										<div class="tempWrap">
+											<div class="tempWrap" style="overflow:hidden; position:relative; height:75px"><ul style="height: 450px; position: relative; padding: 0px; margin: 0px; top: -150px;"><li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_79037" target="_blank"> <img src="//image.thepaper.cn/image/18/377/352.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+												<li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_65478" target="_blank"> <img src="//image1.thepaper.cn/image/14/940/847.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_79037" target="_blank"> <img src="//image.thepaper.cn/image/18/377/352.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_65478" target="_blank"> <img src="//image1.thepaper.cn/image/14/940/847.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_79037" target="_blank"> <img src="//image.thepaper.cn/image/18/377/352.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_65478" target="_blank"> <img src="//image1.thepaper.cn/image/14/940/847.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li></ul></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						<div class="bs_item">
+								<div class="mr_topbox">
+									<div class="mr_fr">
+										<div class="tempWrap">
+											<div class="tempWrap" style="overflow:hidden; position:relative; height:75px"><ul style="height: 675px; position: relative; padding: 0px; margin: 0px; top: -225px;"><li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_81915" target="_blank"> <img src="//image2.thepaper.cn/image/26/624/459.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_85672" target="_blank"> <img src="//image2.thepaper.cn/image/29/638/895.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+												<li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_2114424" target="_blank"> <img src="//image2.thepaper.cn/image/14/940/851.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_81915" target="_blank"> <img src="//image2.thepaper.cn/image/26/624/459.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_85672" target="_blank"> <img src="//image2.thepaper.cn/image/29/638/895.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_2114424" target="_blank"> <img src="//image2.thepaper.cn/image/14/940/851.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_81915" target="_blank"> <img src="//image2.thepaper.cn/image/26/624/459.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_85672" target="_blank"> <img src="//image2.thepaper.cn/image/29/638/895.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="https://www.thepaper.cn/newsDetail_forward_2114424" target="_blank"> <img src="//image2.thepaper.cn/image/14/940/851.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li></ul></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						<div class="bs_item">
+								<div class="mr_topbox">
+									<div class="mr_fr">
+										<div class="tempWrap">
+											<div class="tempWrap" style="overflow:hidden; position:relative; height:75px"><ul style="height: 1125px; position: relative; padding: 0px; margin: 0px; top: -375px;"><li style="height: 75px;">
+														<a href="http://www.cyberpolice.cn/wfjb/ " target="_blank"> <img src="//image.thepaper.cn/image/14/940/852.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="javascript:;"> <img src="//image1.thepaper.cn/image/14/940/853.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="javascript:;"> <img src="//image2.thepaper.cn/image/14/940/854.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="https://newsxmwb.xinmin.cn/special/mljbzsjs/index.html" target="_blank"> <img src="//image1.thepaper.cn/image/30/69/931.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+												<li style="height: 75px;">
+														<a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"> <img src="//image.thepaper.cn/image/14/940/855.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="http://www.cyberpolice.cn/wfjb/ " target="_blank"> <img src="//image.thepaper.cn/image/14/940/852.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="javascript:;"> <img src="//image1.thepaper.cn/image/14/940/853.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="javascript:;"> <img src="//image2.thepaper.cn/image/14/940/854.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="https://newsxmwb.xinmin.cn/special/mljbzsjs/index.html" target="_blank"> <img src="//image1.thepaper.cn/image/30/69/931.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li>
+													<li style="height: 75px;">
+														<a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"> <img src="//image.thepaper.cn/image/14/940/855.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="http://www.cyberpolice.cn/wfjb/ " target="_blank"> <img src="//image.thepaper.cn/image/14/940/852.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="javascript:;"> <img src="//image1.thepaper.cn/image/14/940/853.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="javascript:;"> <img src="//image2.thepaper.cn/image/14/940/854.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="https://newsxmwb.xinmin.cn/special/mljbzsjs/index.html" target="_blank"> <img src="//image1.thepaper.cn/image/30/69/931.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li><li style="height: 75px;">
+														<a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"> <img src="//image.thepaper.cn/image/14/940/855.jpg" height="75" onerror="rightBannerError(this)">
+																</a>
+															</li></ul></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+<script>
+$(document).ready(function () {
+    rightBannerInit();
+});
+function rightBannerError(obj){
+    obj.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.hidden = true
+}
+function rightBannerInit(){/*侧边栏banner*/
+    var bannerArray = $(".right_banner_slide .bs_item");
+    for(var i=0;i<bannerArray.length;i++){
+        var box = bannerArray.eq(i);
+        if(box.find("li").length>1){
+            box.slide({
+                titCell: "",
+                mainCell: ".mr_fr ul",
+                autoPage: true,
+                effect: "topLoop",
+                autoPlay: true,
+                interTime:3000,
+                vis: 1
+            });
+        }
+    }
+}
+</script>
+
+<div class="rt_ad" id="rt_ad"><div class="ifrht"><div style="width:100%;height:auto;border:none;padding:0px;margin:0px;overflow:hidden;position:relative;"><a trueurl="http://www.thepaper.cn/list_26525" attrurl="//adpai.thepaper.cn/c?ap=41&amp;ad=109&amp;PAPER-CLIENT-TYPE=05&amp;u=http://www.thepaper.cn/list_26525" href="javascript:void(0);" onclick="ad_clickMonitor(this)"><img src="//imgadpai.thepaper.cn/adstatics//images/9bedd9e3457f41fba1c07683aab3f669/2017/12/1513846742001059658.jpg" height="160" width="196" style="width:100%;height:auto;border:none;"></a></div></div></div>
+    <!--25949-->
+<script>
+var ele = document.getElementById("rt_ad");
+</script><h3 class="rthotnews_tt">热新闻</h3>
+<div class="hotnews_time" id="hotnews">
+  <a class="on" href="javascript:;">一天</a>
+  <a href="javascript:;">三天</a>
+  <a href="javascript:;">一周</a>
+</div>
+<ul class="list_hot" id="listhot0">
+		<li style="border-top:0;"><span class="num_hot1"></span><a target="_blank" href="newsDetail_forward_4495185">农业农村部官员：美农业州访问行程调整与经贸磋商无关</a></li>
+			  			<li><span class="num_hot2"></span><a target="_blank" href="newsDetail_forward_4495275">大型文献专题片《我们走在大路上》丨第十三集：神州腾飞</a></li>
+			  			<li><span class="num_hot3"></span><a target="_blank" href="newsDetail_forward_4498159">中国女排3-0美国！争冠关键战役，姑娘们赢得太利索了</a></li>
+			  			<li><span class="num_hot4"></span><a target="_blank" href="newsDetail_forward_4494540">专访褚一斌：褚橙公司计划6年上市，做好父亲褚时健未竟事业</a></li>
+			  			<li><span class="num_hot5"></span><a target="_blank" href="newsDetail_forward_4495230">险胜巴西给女排敲响警钟，这是中美对决前最好的热身</a></li>
+			  			<li><span class="num_hot6"></span><a target="_blank" href="newsDetail_forward_4494970">24名家长“探班”，消防员为父母洗脚</a></li>
+			  			<li><span class="num_hot7"></span><a target="_blank" href="newsDetail_forward_4495375">荀玉根：本轮牛市主升浪加速前会折返跑，目前是布局期</a></li>
+			  			<li><span class="num_hot8"></span><a target="_blank" href="newsDetail_forward_4495177">终结4个月连跌：公募基金规模7月重回增长，至13.7万亿</a></li>
+			  			<li><span class="num_hot9"></span><a target="_blank" href="newsDetail_forward_4495389">北大国发院副教授：中国数字金融尚未经历一个完整的周期考验</a></li>
+			  			<li><span class="num_hot10"></span><a target="_blank" href="newsDetail_forward_4495324">美国印第安纳州首府枪击案6伤，枪手在逃</a></li>
+			  			<li class="list_more"></li>
+	</ul>
+<ul class="list_hot" id="listhot1" style="display:none;">
+  <li style="border-top:0;"><span class="num_hot1"></span><a target="_blank" href="newsDetail_forward_4486688">中国足协：立即取消张鹭在国家队的集训、比赛资格</a></li>
+	  			<li><span class="num_hot2"></span><a target="_blank" href="newsDetail_forward_4476768">港媒：“金利来”创办人曾宪梓因病在梅州离世，享年85岁 </a></li>
+	  			<li><span class="num_hot3"></span><a target="_blank" href="newsDetail_forward_4489661">视频丨开国大典12分钟完整版彩色影像公布</a></li>
+	  			<li><span class="num_hot4"></span><a target="_blank" href="newsDetail_forward_4479224">绿地地产武汉公司回应“新房马桶阻门”：安装错位，已解决</a></li>
+	  			<li><span class="num_hot5"></span><a target="_blank" href="newsDetail_forward_4495185">农业农村部官员：美农业州访问行程调整与经贸磋商无关</a></li>
+	  			<li><span class="num_hot6"></span><a target="_blank" href="newsDetail_forward_4485330">中美经贸副部级磋商在华盛顿举行</a></li>
+	  			<li><span class="num_hot7"></span><a target="_blank" href="newsDetail_forward_4478502">荣耀总裁：厂商有义务告诉消费者买的5G手机能否一直用5G</a></li>
+	  			<li><span class="num_hot8"></span><a target="_blank" href="newsDetail_forward_4486974">男子打车跟踪女子还买编织袋，的哥报警</a></li>
+	  			<li><span class="num_hot9"></span><a target="_blank" href="newsDetail_forward_4488389">上海不出BAT？</a></li>
+	  			<li><span class="num_hot10"></span><a target="_blank" href="newsDetail_forward_4495275">大型文献专题片《我们走在大路上》丨第十三集：神州腾飞</a></li>
+	  			<li class="list_more"></li>
+</ul>
+<ul class="list_hot" id="listhot2" style="display:none;">
+  <li style="border-top:0;"><span class="num_hot1"></span><a target="_blank" href="newsDetail_forward_4437148">我们走在大路上丨第一集：新中国诞生</a></li>
+	  			<li><span class="num_hot2"></span><a target="_blank" href="newsDetail_forward_4454951">习近平讲述的故事丨赵一曼：甘将热血沃中华</a></li>
+	  			<li><span class="num_hot3"></span><a target="_blank" href="newsDetail_forward_4437078">习近平对国家网络安全宣传周作出重要指示</a></li>
+	  			<li><span class="num_hot4"></span><a target="_blank" href="newsDetail_forward_4441895">“游动的三峡水怪”被打捞上岸，系气囊</a></li>
+	  			<li><span class="num_hot5"></span><a target="_blank" href="newsDetail_forward_4452538">独家视频丨习近平在河南深入煤矿机械企业和农村考察调研</a></li>
+	  			<li><span class="num_hot6"></span><a target="_blank" href="newsDetail_forward_4453047">警方通报两名游客在涠洲岛失联：一人身亡，两人均未参与传销</a></li>
+	  			<li><span class="num_hot7"></span><a target="_blank" href="newsDetail_forward_4475248">《我们走在大路上⑦》速览版：艰辛探索</a></li>
+	  			<li><span class="num_hot8"></span><a target="_blank" href="newsDetail_forward_4458097">芒果TV回应艺人刘露阻碍铁路执法人员执行公务一事：已解约</a></li>
+	  			<li><span class="num_hot9"></span><a target="_blank" href="newsDetail_forward_4468282">华为发布Mate 30：连苹果都学我的设计</a></li>
+	  			<li><span class="num_hot10"></span><a target="_blank" href="newsDetail_forward_4475227">基里巴斯与台湾“断交”</a></li>
+	  			<li class="list_more"></li>
+</ul>
+
+
+
+
+<div style="margin-bottom:20px;cursor:pointer;">
+    <a href="//www.thepaper.cn/work_us.jsp " target="_blank"><img src="//file.thepaper.cn/www/v3/img/ppzp.jpg?t=20160926"></a>
+</div>
+
+
+<h3 class="rthotnews_tt">热话题</h3>
+<div class="hotnews_time" id="hottopic">
+  <a class="on" href="javascript:;">一天</a>
+  <a href="javascript:;">三天</a>
+  <a href="javascript:;">一周</a>
+</div>
+<ul class="topic_hot" id="topichot0">
+    <li style="border-top:0;">
+            <span class="num_hot1"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10017067" target="_blank">我在日本研究养老产业,即将进入超高龄社会的日本如何养老,问吧!</a></p>
+        </li>
+       <li>
+            <span class="num_hot2"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10017084" target="_blank">我是科技自媒体人郭静,如何选择适合自己的手机,问我吧!</a></p>
+        </li>
+       <li>
+            <span class="num_hot3"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10017074" target="_blank">我是复旦大学控烟研究中心负责人郑频频,关于电子烟对健康的影响,问吧!</a></p>
+        </li>
+       <li>
+            <span class="num_hot4"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10016534" target="_blank">“报警不救人”司机被刑拘，于情于理，他有何过错？</a></p>
+        </li>
+       <li>
+            <span class="num_hot5"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10016748" target="_blank">如何看待北大3次退档过线贫困生又补录？</a></p>
+        </li>
+       </ul>
+<ul class="topic_hot" id="topichot1" style="display:none;">
+    <li style="border-top:0;">
+            <span class="num_hot1"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10017067" target="_blank">我在日本研究养老产业,即将进入超高龄社会的日本如何养老,问吧!</a></p>
+        </li>
+       <li>
+            <span class="num_hot2"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10017084" target="_blank">我是科技自媒体人郭静,如何选择适合自己的手机,问我吧!</a></p>
+        </li>
+       <li>
+            <span class="num_hot3"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10017074" target="_blank">我是复旦大学控烟研究中心负责人郑频频,关于电子烟对健康的影响,问吧!</a></p>
+        </li>
+       <li>
+            <span class="num_hot4"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10016534" target="_blank">“报警不救人”司机被刑拘，于情于理，他有何过错？</a></p>
+        </li>
+       <li>
+            <span class="num_hot5"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10016748" target="_blank">如何看待北大3次退档过线贫困生又补录？</a></p>
+        </li>
+       </ul>
+<ul class="topic_hot" id="topichot2" style="display:none;">
+    <li style="border-top:0;">
+            <span class="num_hot1"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10016964" target="_blank">我是专栏作家李开周,关于古代名人的经济生活,问我吧！</a></p>
+        </li>
+       <li>
+            <span class="num_hot2"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10017067" target="_blank">我在日本研究养老产业,即将进入超高龄社会的日本如何养老,问吧!</a></p>
+        </li>
+       <li>
+            <span class="num_hot3"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10016534" target="_blank">“报警不救人”司机被刑拘，于情于理，他有何过错？</a></p>
+        </li>
+       <li>
+            <span class="num_hot4"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10016748" target="_blank">如何看待北大3次退档过线贫困生又补录？</a></p>
+        </li>
+       <li>
+            <span class="num_hot5"></span>
+            <p style="float:right;width:180px;"><a href="asktopic_detail_10017029" target="_blank">我是作家陈美者,如何还原一个真实的严复,问我吧!</a></p>
+        </li>
+       </ul>
+<h3 class="rthotnews_tt">热评论</h3>
+<div class="ans_hot">
+    <div class="rtbt_qus" style="border-top:0;padding-top:0;">
+	        <div class="taq_name">
+	            <a target="_blank" href="newsDetail_forward_4498159">原新闻：中国女排3-0美国！争冠关键战役，姑娘们赢得太利索了</a>
+	            </div>
+	        
+	        <div class="rtbt_write clearfix">
+	          <div class="aqwleft">
+                    <div class="ansleft_zan" data-id="24760789" data-praisetimes="3091" id="247607890">
+	                    <span onclick="priseCommt(24760789,3091,0)"></span>
+	                    <p>3k</p>   
+	                </div>
+	            </div>
+	            <div class="aqwright">
+	                <div class="ansright_cont">
+	                	<a href="newsDetail_forward_4498159?hotComm=true" ref="nofollow">看到这些姑娘们，我又想到男足了</a>
+	                </div>
+	            </div>
+	        </div>
+	      </div>
+		<div class="rtbt_qus">
+	        <div class="taq_name">
+	            <a target="_blank" href="newsDetail_forward_4489661">原新闻：视频丨开国大典12分钟完整版彩色影像公布</a>
+	            </div>
+	        
+	        <div class="rtbt_write clearfix">
+	          <div class="aqwleft">
+                    <div class="ansleft_zan" data-id="24743563" data-praisetimes="1437" id="247435631">
+	                    <span onclick="priseCommt(24743563,1437,1)"></span>
+	                    <p>1.4k</p>   
+	                </div>
+	            </div>
+	            <div class="aqwright">
+	                <div class="ansright_cont">
+	                	<a href="newsDetail_forward_4489661?hotComm=true" ref="nofollow">莫名的心酸😔，新中国成立真的是一贫如洗，祖国日益强大，倍感骄傲</a>
+	                </div>
+	            </div>
+	        </div>
+	      </div>
+		<div class="rtbt_qus">
+	        <div class="taq_name">
+	            <a target="_blank" href="newsDetail_forward_4486688">原新闻：中国足协：立即取消张鹭在国家队的集训、比赛资格</a>
+	            </div>
+	        
+	        <div class="rtbt_write clearfix">
+	          <div class="aqwleft">
+                    <div class="ansleft_zan" data-id="24742572" data-praisetimes="951" id="247425722">
+	                    <span onclick="priseCommt(24742572,951,2)"></span>
+	                    <p>951</p>   
+	                </div>
+	            </div>
+	            <div class="aqwright">
+	                <div class="ansright_cont">
+	                	<a href="newsDetail_forward_4486688?hotComm=true" ref="nofollow">没有一流的技术，但有一流的脾气</a>
+	                </div>
+	            </div>
+	        </div>
+	      </div>
+		<div class="rtbt_qus">
+	        <div class="taq_name">
+	            <a target="_blank" href="newsDetail_forward_4495439">原新闻：中国核潜艇之父34岁被密召进京，此后30年再没回家</a>
+	            </div>
+	        
+	        <div class="rtbt_write clearfix">
+	          <div class="aqwleft">
+                    <div class="ansleft_zan" data-id="24755278" data-praisetimes="913" id="247552783">
+	                    <span onclick="priseCommt(24755278,913,3)"></span>
+	                    <p>913</p>   
+	                </div>
+	            </div>
+	            <div class="aqwright">
+	                <div class="ansright_cont">
+	                	<a href="newsDetail_forward_4495439?hotComm=true" ref="nofollow">国家脊梁！</a>
+	                </div>
+	            </div>
+	        </div>
+	      </div>
+		<div class="rtbt_qus">
+	        <div class="taq_name">
+	            <a target="_blank" href="newsDetail_forward_4493777">原新闻：神木少女被害案开庭：家属放弃赔偿，要求追究“嫖客”刑责</a>
+	            </div>
+	        
+	        <div class="rtbt_write clearfix">
+	          <div class="aqwleft">
+                    <div class="ansleft_zan" data-id="24746680" data-praisetimes="815" id="247466804">
+	                    <span onclick="priseCommt(24746680,815,4)"></span>
+	                    <p>815</p>   
+	                </div>
+	            </div>
+	            <div class="aqwright">
+	                <div class="ansright_cont">
+	                	<a href="newsDetail_forward_4493777?hotComm=true" ref="nofollow">强奸幼女就拘留15日啊？</a>
+	                </div>
+	            </div>
+	        </div>
+	      </div>
+		</div>
+
+<h3 class="rthotnews_tt" style="margin-top:30px">热回答</h3>
+<div class="ans_hot">
+<div class="rtbt_qus" style="border-top:0;padding-top:0;">
+        <div class="taq_name">
+            <a target="_blank" href="asktopic_detail_10017079">原话题：我是新金融领域研究者薛洪言,关于数字货币及无现金社会,问我吧!</a></div>
+        <div class="taq_ct"><a href="point_question.jsp?contid=10017079&amp;commentid=24757216">能否浅显易懂地解读一下区块链、数字货币、法定数字货币的定义和联系？</a></div>
+        <div class="rtbt_write clearfix">
+            <div class="aqwleft">
+              <div class="ansleft_zan" data-id="24759093" data-praisetimes="38" id="247590930">
+                <span onclick="priseCommt(24759093,38,0)"></span><!--class="zan"-->
+                <p>38</p>   
+              </div>
+            </div>
+            <div class="aqwright">
+              <div class="ansright_cont"><a href="point_question.jsp?contid=10017079&amp;commentid=24757216" ref="nofollow">区块链一词来源于比特币，中本聪在比特币白皮书中提到了“chain　of　blocks”，随后在其发布的第一版比特币程序中，把保存交易数据的文件夹命名为了blockchain。最初blockchain仅指比特币的历史交易数据，后来被用来指代各种加密数字货币的历史交易数据。<br>人们对区块链价值的认识来自2014年10月大英图书馆的一次技术讨论会，全球著名的学者研究比特币的未来，最终把目标聚焦于比特币的底层技术——区块链，大家开始认识到，区块链不仅仅是一个账本，更代表一种革新性的理念和技术范式。自此，区块链开始独立于虚拟货币，被当做独立的技术范式被研究和应用，随着区块链被广泛应用于金融、供应链、溯源、电子合同、存证、版权、物联网等领域，其概念外延也不断扩围，不再是数字货币的附庸。<br>数字货币，又称加密货币，国内不承认其货币属性，又称为加密资产，一些区块链把其货币属性切割掉，数字货币就变成了Token。数字货币属于链上资产，价值主要基于密码学及分布式记账等技术，在区块链中发行，在不同的地址间进行转让时就成了数字货币交易。<br>法定数字货币，顾名思义由货币当局发行，具有法偿性和强制性的数字货币。法定数字货币与货币具有等同的法律地位，而数字货币在国内被界定为一种民间资产，不由货币当局发行，不具有法偿性与强制性等货币属性，不具有与货币等同的法律地位。</a></div>
+            </div>
+          </div>
+        </div>
+       <div class="rtbt_qus">
+        <div class="taq_name">
+            <a target="_blank" href="asktopic_detail_10017074">原话题：我是复旦大学控烟研究中心负责人郑频频,关于电子烟对健康的影响,问吧!</a></div>
+        <div class="taq_ct"><a href="point_question.jsp?contid=10017074&amp;commentid=24715123">郑教授，请问电子烟到底对身体有危害吗？如果有，和传统香烟相比，哪个危害更大？</a></div>
+        <div class="rtbt_write clearfix">
+            <div class="aqwleft">
+              <div class="ansleft_zan" data-id="24757266" data-praisetimes="29" id="247572661">
+                <span onclick="priseCommt(24757266,29,1)"></span><!--class="zan"-->
+                <p>29</p>   
+              </div>
+            </div>
+            <div class="aqwright">
+              <div class="ansright_cont"><a href="point_question.jsp?contid=10017074&amp;commentid=24715123" ref="nofollow">烟是有毒的，不能吸进一丝一缕</a></div>
+            </div>
+          </div>
+        </div>
+       <div class="rtbt_qus">
+        <div class="taq_name">
+            <a target="_blank" href="asktopic_detail_10017084">原话题：我是科技自媒体人郭静,如何选择适合自己的手机,问我吧!</a></div>
+        <div class="taq_ct"><a href="point_question.jsp?contid=10017084&amp;commentid=24728913">苹果手机价格那么高，是真的物有所值还是在卖牌子？</a></div>
+        <div class="rtbt_write clearfix">
+            <div class="aqwleft">
+              <div class="ansleft_zan" data-id="24758794" data-praisetimes="22" id="247587942">
+                <span onclick="priseCommt(24758794,22,2)"></span><!--class="zan"-->
+                <p>22</p>   
+              </div>
+            </div>
+            <div class="aqwright">
+              <div class="ansright_cont"><a href="point_question.jsp?contid=10017084&amp;commentid=24728913" ref="nofollow">你是杠精么，我都看不下去了，这里讨论的是苹果手机，***跟我说布加迪，读懂中心思想别一上来就开喷，苹果对中国做出的贡献比你大，解决了就业又增加了税收，你要知道国行的苹果每卖出一台就要交给国家17%的增值税，多少钱自己去算，懂了吗，别什么都不懂就喷，喜不喜欢买不买钱是别人的想怎么花就怎么花，iPhone手机这么多年这么多款产品，有的就是性价比高的，价格便宜的</a></div>
+            </div>
+          </div>
+        </div>
+       <div class="rtbt_qus">
+        <div class="taq_name">
+            <a target="_blank" href="asktopic_detail_10001228">原话题：我是南京城交院院长杨涛,城市如何应对小汽车爆炸式增长,问我吧!</a></div>
+        <div class="taq_ct"><a href="point_question.jsp?contid=10001228&amp;commentid=24697202">请问你，公交便利性现在很多地方还有缺陷，如何弥补呢？汽车作为交通工具的属性是明确的。汽车对国家经济的贡献和对工业的推动也是明显的。停车难到底需要商业模式解决还是其他方式呢？</a></div>
+        <div class="rtbt_write clearfix">
+            <div class="aqwleft">
+              <div class="ansleft_zan" data-id="24742490" data-praisetimes="17" id="247424903">
+                <span onclick="priseCommt(24742490,17,3)"></span><!--class="zan"-->
+                <p>17</p>   
+              </div>
+            </div>
+            <div class="aqwright">
+              <div class="ansright_cont"><a href="point_question.jsp?contid=10001228&amp;commentid=24697202" ref="nofollow">（1）您提的这两个问题都很重要。公交的便利性主要由公交的可达性、时效性、准时性等几项关键指标来反映。要提高公交服务可达性，需要加大公交线网密度和公交站点服务覆盖率。尽量做到居民出门和回程3、5分钟内步行到达公交车站，基本做到公交的门到门服务。要提高公交的时效性，需要增加公交车辆投放，提高发车频率，提高公交车运行时速。要提高公交准时性，除了加强公交自身调度的科学性、规范性之外，关键是公交运行时空路权的充分保障。要同时实现公交便利性的三提升，需要建立多层公共交通网络，而不仅仅单一的常规公交，上有地铁、轻轨，下有支线公交、招应公交。需要在财政、土地、路权、管理等充分落实公交优先。</a></div>
+            </div>
+          </div>
+        </div>
+       </div>
+<style>
+.adc6op0 {right: 50%;top: 72px;margin-right: -596px;position: fixed;z-index: 100;}
+.adc6op1 {right: 20px;top: 0;position: absolute;z-index: 100;}
+</style>
+<div class="rt_ad2" id="rt_ad2" style="margin-top:50px"><div class="ifrht"></div></div>
+    <!--25949-->
+<script>
+var ele = document.getElementById("rt_ad");
+</script><div class="con_us"><a href="contact_us.jsp">联系我们</a></div>
+<script>
+initRightZan();
+function initRightZan(){
+    var zanArray = $('div[class*="ansleft_zan"]');
+    for(var zani=0;zani<zanArray.length;zani++){
+        var obj = zanArray.eq(zani);
+        var id = obj.data("id");
+        var times = obj.data("praisetimes");
+        var zanNum = ZanController.check(id);
+        if(zanNum){
+            if(times<zanNum){
+                obj.find("p").html(zanNum);
+            }
+            obj.find("span").addClass("zan").attr("onclick","javascript:;");
+        }
+    }
+}
+</script></div>
+        <div id="toTop" class="back-top" onclick="window.scrollTo(0,0);return false;"></div>
+
+</div>
+
+<style>
+.main_ltad:hover img{-webkit-transform: scale(1.1);transform: scale(1.1)}
+.main_ltad img{transition: all 1.0s;-webkit-transition: all 1.0s}
+</style>
+<div class="about" style="width: 100%;">
+    <a href="about_paper.jsp" ref="nofollow">关于澎湃</a>
+    <a href="work_us.jsp" ref="nofollow">在澎湃工作</a>
+    <a href="contact_us.jsp" ref="nofollow">联系我们</a>
+    <a href="copyright_statement.jsp" ref="nofollow">版权声明</a>
+    <a href="privacy_policy.jsp" ref="nofollow">隐私政策</a>
+    <a href="paper_ad.jsp" ref="nofollow">澎湃广告</a>
+    <a href="friendly_links.jsp" ref="nofollow">友情链接</a>
+    <a href="reportAccept.jsp" ref="nofollow">澎湃新闻举报受理和处置办法</a>
+</div>
+<div class="copyright" style="width: 100%;">Copyright © 2014~2019 The Paper All rights reserved.上海东方报业有限公司 | 沪ICP证：沪B2-20170116 | <a href="http://www.miitbeian.gov.cn" target="_blank" ref="nofollow">沪ICP备14003370号</a> | 互联网新闻信息服务许可证：31120170006
+</div>
+<div style="width: 100%; margin: 0px auto; padding: 0px;" class="copyright">
+	<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010602000299" [^]="" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" ref="nofollow">
+		<img src="//file.thepaper.cn/www/v3/img/ghs.png" style="float:left;">
+		<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#FFFFFF;">沪公网安备 31010602000299号
+		</p>
+	</a>
+</div>
+<div id="bg_overlay" style="display:none;"></div>
+<!-- add main_ltad css including pseudo -->
+<script type="text/javascript">
+	if ($(".main_ltad").length != 0) {
+		var userAgent   = navigator.userAgent;
+	  	// judge browser type
+	  	if (userAgent.indexOf("MSIE") > -1) {
+	  		document.styleSheets[1].addRule(".main_ltad:hover img", "-webkit-transform: scale(1.1);transform: scale(1.1)", 0);
+			document.styleSheets[1].addRule(".main_ltad img", "transition: all 1.0s;-webkit-transition: all 1.0s", 1);	  
+	  	}
+	}
+</script>
+<!-- set nofollows  -->
+<script type="text/javascript">
+	// top ad
+	$(".head_ad a").attr("ref", "nofollow");
+	// middle ad
+	$(".main_ltad a").attr("ref", "nofollow");
+	// bottom ad in detail page, iframe's content is read-only
+	$(".news_imgad iframe");
+	// bottom plista ads in detail page
+	$(".plista_widget_belowArticle_item").each(function() {
+		$(this).attr("ref", "nofollow");
+	});
+	// right top, bottom ads in detail page, iframe's content is read-only
+	$(".rt_ad iframe");
+	$(".rt_ad2 iframe");
+	// right external links
+	$("a[href='http://www.12377.cn/']").each(function() {
+		$(this).attr("ref", "nofollow");
+	});
+	// N.B. a blank
+	$("a[href='http://www.thepaper.cn/work_us.jsp ']").each(function() {
+		$(this).attr("ref", "nofollow");
+	});
+	// bottom external links
+	$(".copyright a").attr("ref", "nofollow");
+	// all share links
+	$(".newsct_share_detail a," +
+	  ".newsct_share_vliving a," + 
+	  ".tjnews_share a," + 
+	  ".newszt_share a," + 
+	  ".ask_user_share a").each(function() {
+		$(this).attr("ref", "nofollow");
+	});
+	setInterval(function() {
+		$(".news_share a," + 
+		  ".newslv_share a," +
+		  ".ask_user_share a").each(function() {
+		  $(this).attr("ref", "nofollow");
+		 });	
+	}, 5000);
+	// right area download links
+	$("map area").each(function() {
+		$(this).attr("ref", "nofollow");
+	});
+	// bottom area links
+	$(".about a").each(function() {
+		$(this).attr("ref", "nofollow");
+	});
+	$(".ansright_cont a").each(function() {
+		$(this).attr("ref", "nofollow");
+	});
+	setInterval(function() {
+		$(".aq_write h3 a").each(function() {
+			$(this).attr("ref", "nofollow");
+		});
+		$(".ask_qusans h3 a").each(function() {
+			$(this).attr("ref", "nofollow");
+		});	
+	}, 5000);
+</script>
+<!-- cnzz statistic code -->
+<div id="cnzz_www" style="display: none">
+	<script type="text/javascript">
+		var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cspan id='cnzz_stat_icon_1261102524'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1261102524' type='text/javascript'%3E%3C/script%3E"));
+	</script><span id="cnzz_stat_icon_1261102524"><a href="https://www.cnzz.com/stat/website.php?web_id=1261102524" target="_blank" title="站长统计">站长统计</a></span><script src=" https://s95.cnzz.com/z_stat.php?id=1261102524" type="text/javascript"></script><script src="https://c.cnzz.com/core.php?web_id=1261102524&amp;t=z" charset="utf-8" type="text/javascript"></script>
+<script src="//file.thepaper.cn/www/v3/js/iwt-min.js"></script><script>
+(function (G,D,s,c,p) {
+c={//监测配置
+UA:"UA-thepaper-000002", //客户项目编号,由系统生成
+NO_FLS:1, 
+WITH_REF:1, 
+API_URL:"//irs01.com/irt?",
+URL:'//file.thepaper.cn/www/v3/js/iwt-min.js'//iwt.js的URL位置，请客户自行托管JS文件，只需修改此值
+};
+G._iwt?G._iwt.track(c,p):(G._iwtTQ=G._iwtTQ || []).push([c,p]),!G._iwtLoading && lo();
+function lo(t) {
+G._iwtLoading=1;s=D.createElement("script");s.src=c.URL;
+t=D.getElementsByTagName("script");t=t[t.length-1];
+t.parentNode.insertBefore(s,t);
+}
+})(this,document);
+</script>
+</div><script type="text/javascript" src="//file.thepaper.cn/www/v3/js/pjax.slider.js"></script>
+<script type="text/javascript" src="//file.thepaper.cn/www/v3/js/rd.js?v=6.4"></script>
+<script type="text/javascript">
+var vieTypeVal = wwwstore.getItem("vieType");
+if (vieTypeVal == "scroll") {
+	$("#indexScroll").show();
+	$("#indexMasonry").remove();
+} else {
+	$("#indexMasonry").show();
+	$("#indexScroll").remove();
+}
+setMsgMark();
+shareTopNews('http://www.thepaper.cn');
+hidepjaxswitch();
+</script>
+
+</body></html>

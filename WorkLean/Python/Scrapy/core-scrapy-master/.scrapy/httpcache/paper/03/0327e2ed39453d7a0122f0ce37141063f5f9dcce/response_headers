@@ -1,0 +1,17 @@
+Server: Tengine
+Content-Type: image/jpeg
+Date: Thu, 26 Sep 2019 08:26:28 GMT
+Last-Modified: Thu, 26 Sep 2019 08:26:00 GMT
+Etag: "5d8c7618-12f52"
+Expires: Sat, 26 Oct 2019 08:26:28 GMT
+Cache-Control: max-age=2592000
+Accept-Ranges: bytes
+X-Varnish: 916328014
+Via: 1.1 varnish (Varnish/5.0), cache30.l2cn1823[0,200-0,H], cache34.l2cn1823[0,0], cache6.cn2045[0,200-0,H], cache13.cn2045[0,0]
+Ali-Swift-Global-Savetime: 1569486388
+Age: 527
+X-Cache: HIT TCP_MEM_HIT dirn:-2:-2
+X-Swift-Savetime: Thu, 26 Sep 2019 08:27:38 GMT
+X-Swift-Cachetime: 2591930
+Timing-Allow-Origin: *
+Eagleid: 77a7bc2115694869159632802e

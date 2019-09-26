@@ -1,0 +1,28 @@
+Server: Tengine
+Content-Type: image/gif
+Date: Thu, 26 Sep 2019 02:07:40 GMT
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: X-Log, X-Reqid
+Access-Control-Max-Age: 2592000
+Cache-Control: public, max-age=31536000
+Content-Disposition: inline; filename="094111677832.gif"; filename*=utf-8''094111677832.gif
+Content-Transfer-Encoding: binary
+Etag: "AIftpmD0ByHu6TYFI_nIDsdhYyhA"
+Expires: Fri, 27 Sep 2019 01:41:25 GMT
+X-Crc-Encoded: 1
+X-Log: BOOTS-GATE:284;X-Log;FUSIONGATE:285
+X-M-Log: QNM:xs1173;QNM3
+X-M-Reqid: mUYAAKfcPkri2scV
+X-Qiniu-Zone: 0
+X-Qnm-Cache: Hit
+X-Reqid: mUYAAJqiaq5z2ccV
+X-Svr: IO
+Ali-Swift-Global-Savetime: 1569463660
+Via: cache31.l2cn1805[0,200-0,H], cache26.l2cn1805[0,0], cache15.cn1220[0,200-0,H], cache14.cn1220[1,0]
+Age: 19423
+X-Cache: HIT TCP_MEM_HIT dirn:12:526923325
+X-Swift-Savetime: Thu, 26 Sep 2019 02:09:35 GMT
+X-Swift-Cachetime: 31104000
+Timing-Allow-Origin: *
+Eagleid: 77a7eda215694830836175461e
